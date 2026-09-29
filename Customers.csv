@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Region,Registration_Date,Customer_Segment
+C10001,Customer_0001,Female,25,Surat,Gujarat,West,2024-01-12,Regular
+C10002,Customer_0002,Male,30,New Delhi,Delhi,North,2024-05-05,Loyal
+C10003,Customer_0003,Male,25,Kolkata,West Bengal,East,2025-07-18,Regular
+C10004,Customer_0004,Female,40,Hyderabad,Telangana,South,2024-11-26,Regular
+C10005,Customer_0005,Male,60,Ahmedabad,Gujarat,West,2024-10-09,Regular
+C10006,Customer_0006,Male,18,Noida,Uttar Pradesh,North,2024-05-19,Loyal
+C10007,Customer_0007,Female,41,Pune,Maharashtra,West,2025-02-04,New
+C10008,Customer_0008,Male,52,Surat,Gujarat,West,2024-04-06,New
+C10009,Customer_0009,Male,41,Kolkata,West Bengal,East,2025-05-31,VIP
+C10010,Customer_0010,Female,34,Warangal,Telangana,South,2025-07-22,New
+C10011,Customer_0011,Female,22,New Delhi,Delhi,North,2026-04-25,Regular
+C10012,Customer_0012,Female,37,Kolkata,West Bengal,East,2024-03-09,Regular
+C10013,Customer_0013,Female,38,Kolkata,West Bengal,East,2024-04-27,Regular
+C10014,Customer_0014,Male,57,Pune,Maharashtra,West,2026-06-06,Regular
+C10015,Customer_0015,Male,48,Thiruvananthapuram,Kerala,South,2024-02-28,New
+C10016,Customer_0016,Female,53,Warangal,Telangana,South,2024-02-02,Regular
+C10017,Customer_0017,Female,28,Mysuru,Karnataka,South,2024-11-13,Regular
+C10018,Customer_0018,Female,32,Kolkata,West Bengal,East,2024-02-19,Loyal
+C10019,Customer_0019,Female,36,Thiruvananthapuram,Kerala,South,2026-05-29,New
+C10020,Customer_0020,Male,24,Bengaluru,Karnataka,South,2025-05-03,Regular
+C10021,Customer_0021,Female,45,Warangal,Telangana,South,2024-01-19,New
+C10022,Customer_0022,Female,60,Madurai,Tamil Nadu,South,2025-12-26,Regular
+C10023,Customer_0023,Female,22,Lucknow,Uttar Pradesh,North,2024-07-15,New
+C10024,Customer_0024,Male,22,Thiruvananthapuram,Kerala,South,2026-06-09,New
+C10025,Customer_0025,Female,47,Udaipur,Rajasthan,North,2025-03-25,Loyal
+C10026,Customer_0026,Male,49,Madurai,Tamil Nadu,South,2025-07-12,Regular
+C10027,Customer_0027,Female,25,Lucknow,Uttar Pradesh,North,2025-11-09,VIP
+C10028,Customer_0028,Male,27,Nagpur,Maharashtra,West,2025-03-27,VIP
+C10029,Customer_0029,Male,55,Surat,Gujarat,West,2024-10-15,Regular
+C10030,Customer_0030,Female,49,New Delhi,Delhi,North,2024-05-20,New
+C10031,Customer_0031,Female,45,Udaipur,Rajasthan,North,2024-03-24,Regular
+C10032,Customer_0032,Male,34,Pune,Maharashtra,West,2025-11-24,Loyal
+C10033,Customer_0033,Male,48,Hyderabad,Telangana,South,2025-01-25,Regular
+C10034,Customer_0034,Female,25,Nagpur,Maharashtra,West,2025-08-13,New
+C10035,Customer_0035,Male,57,Surat,Gujarat,West,2024-08-02,Regular
+C10036,Customer_0036,Male,42,Hyderabad,Telangana,South,2025-06-09,Loyal
+C10037,Customer_0037,Male,26,Jaipur,Rajasthan,North,2024-08-02,Loyal
+C10038,Customer_0038,Female,19,Ahmedabad,Gujarat,West,2025-02-06,New
+C10039,Customer_0039,Male,32,Mangaluru,Karnataka,South,2024-05-07,Loyal
+C10040,Customer_0040,Female,20,New Delhi,Delhi,North,2026-04-01,New
+C10041,Customer_0041,Male,53,Jaipur,Rajasthan,North,2025-04-21,New
+C10042,Customer_0042,Female,21,Bengaluru,Karnataka,South,2026-01-29,Loyal
+C10043,Customer_0043,Female,31,Lucknow,Uttar Pradesh,North,2025-02-07,New
+C10044,Customer_0044,Female,58,Udaipur,Rajasthan,North,2024-01-29,Regular
+C10045,Customer_0045,Male,58,Lucknow,Uttar Pradesh,North,2026-03-02,New
+C10046,Customer_0046,Female,42,Hyderabad,Telangana,South,2024-12-03,Loyal
+C10047,Customer_0047,Female,27,Bengaluru,Karnataka,South,2026-04-10,Loyal
+C10048,Customer_0048,Female,38,New Delhi,Delhi,North,2025-12-14,Regular
+C10049,Customer_0049,Male,53,Ahmedabad,Gujarat,West,2024-12-26,Loyal
+C10050,Customer_0050,Other,29,Kolkata,West Bengal,East,2025-07-22,New
+C10051,Customer_0051,Female,44,Mumbai,Maharashtra,West,2025-01-26,Regular
+C10052,Customer_0052,Male,57,Madurai,Tamil Nadu,South,2024-08-05,Regular
+C10053,Customer_0053,Male,19,New Delhi,Delhi,North,2025-07-27,New
+C10054,Customer_0054,Male,30,Bengaluru,Karnataka,South,2025-10-30,Regular
+C10055,Customer_0055,Female,49,Kolkata,West Bengal,East,2024-07-20,VIP
+C10056,Customer_0056,Female,48,New Delhi,Delhi,North,2024-01-17,New
+C10057,Customer_0057,Female,33,Bengaluru,Karnataka,South,2024-11-17,Regular
+C10058,Customer_0058,Female,49,Thiruvananthapuram,Kerala,South,2025-06-01,New
+C10059,Customer_0059,Female,49,Kochi,Kerala,South,2025-07-23,New
+C10060,Customer_0060,Male,51,Lucknow,Uttar Pradesh,North,2024-11-20,VIP
+C10061,Customer_0061,Female,28,New Delhi,Delhi,North,2025-02-15,Regular
+C10062,Customer_0062,Female,27,Kochi,Kerala,South,2024-11-13,Regular
+C10063,Customer_0063,Male,32,Mangaluru,Karnataka,South,2025-11-11,Loyal
+C10064,Customer_0064,Female,34,Noida,Uttar Pradesh,North,2024-03-22,New
+C10065,Customer_0065,Male,57,Mysuru,Karnataka,South,2025-04-18,Regular
+C10066,Customer_0066,Male,35,Noida,Uttar Pradesh,North,2025-04-12,Regular
+C10067,Customer_0067,Female,26,New Delhi,Delhi,North,2025-02-28,Regular
+C10068,Customer_0068,Male,42,Kolkata,West Bengal,East,2025-12-31,VIP
+C10069,Customer_0069,Male,57,Surat,Gujarat,West,2025-11-19,Loyal
+C10070,Customer_0070,Male,31,Udaipur,Rajasthan,North,2024-07-22,Regular
+C10071,Customer_0071,Male,42,Kolkata,West Bengal,East,2025-08-05,Loyal
+C10072,Customer_0072,Male,39,Warangal,Telangana,South,2025-01-21,New
+C10073,Customer_0073,Male,47,Mysuru,Karnataka,South,2026-02-16,New
+C10074,Customer_0074,Female,37,Warangal,Telangana,South,2024-04-07,New
+C10075,Customer_0075,Female,38,Kolkata,West Bengal,East,2024-12-10,Regular
+C10076,Customer_0076,Female,49,Noida,Uttar Pradesh,North,2026-03-13,Regular
+C10077,Customer_0077,Male,38,Udaipur,Rajasthan,North,2024-07-26,Regular
+C10078,Customer_0078,Female,52,Udaipur,Rajasthan,North,2025-05-28,VIP
+C10079,Customer_0079,Male,49,Coimbatore,Tamil Nadu,South,2025-09-27,Regular
+C10080,Customer_0080,Male,47,Udaipur,Rajasthan,North,2026-03-02,Regular
+C10081,Customer_0081,Male,56,Surat,Gujarat,West,2025-08-08,New
+C10082,Customer_0082,Other,29,Udaipur,Rajasthan,North,2024-06-14,New
+C10083,Customer_0083,Male,58,Kolkata,West Bengal,East,2024-01-22,Regular
+C10084,Customer_0084,Male,35,Chennai,Tamil Nadu,South,2024-06-02,Regular
+C10085,Customer_0085,Female,38,Kolkata,West Bengal,East,2025-03-14,Loyal
+C10086,Customer_0086,Male,30,Kolkata,West Bengal,East,2024-10-21,New
+C10087,Customer_0087,Female,38,Nagpur,Maharashtra,West,2024-08-06,New
+C10088,Customer_0088,Female,25,Coimbatore,Tamil Nadu,South,2025-10-30,Regular
+C10089,Customer_0089,Male,57,Kolkata,West Bengal,East,2025-05-09,New
+C10090,Customer_0090,Male,24,Pune,Maharashtra,West,2024-08-17,New
+C10091,Customer_0091,Female,40,Nagpur,Maharashtra,West,2024-01-20,Loyal
+C10092,Customer_0092,Male,49,Chennai,Tamil Nadu,South,2025-07-06,New
+C10093,Customer_0093,Male,28,Hyderabad,Telangana,South,2024-05-27,Regular
+C10094,Customer_0094,Male,39,Lucknow,Uttar Pradesh,North,2024-04-17,Regular
+C10095,Customer_0095,Male,39,Surat,Gujarat,West,2025-02-06,New
+C10096,Customer_0096,Male,60,Noida,Uttar Pradesh,North,2025-08-18,Regular
+C10097,Customer_0097,Other,42,Udaipur,Rajasthan,North,2025-04-27,Loyal
+C10098,Customer_0098,Male,39,Ahmedabad,Gujarat,West,2025-01-01,Regular
+C10099,Customer_0099,Male,45,Jaipur,Rajasthan,North,2026-04-13,Loyal
+C10100,Customer_0100,Male,46,Kolkata,West Bengal,East,2025-02-17,New
+C10101,Customer_0101,Male,30,Mysuru,Karnataka,South,2024-11-04,Loyal
+C10102,Customer_0102,Female,35,Coimbatore,Tamil Nadu,South,2026-03-12,New
+C10103,Customer_0103,Female,19,Surat,Gujarat,West,2026-04-14,Loyal
+C10104,Customer_0104,Female,46,Surat,Gujarat,West,2024-05-13,Regular
+C10105,Customer_0105,Female,38,Kolkata,West Bengal,East,2025-12-19,VIP
+C10106,Customer_0106,Male,32,Warangal,Telangana,South,2024-10-09,Regular
+C10107,Customer_0107,Male,44,Nagpur,Maharashtra,West,2026-02-16,New
+C10108,Customer_0108,Male,48,Kolkata,West Bengal,East,2024-03-13,New
+C10109,Customer_0109,Female,32,Kochi,Kerala,South,2025-04-25,Loyal
+C10110,Customer_0110,Male,40,Mumbai,Maharashtra,West,2024-12-17,Regular
+C10111,Customer_0111,Male,41,Chennai,Tamil Nadu,South,2025-07-13,Loyal
+C10112,Customer_0112,Male,30,Nagpur,Maharashtra,West,2024-11-21,New
+C10113,Customer_0113,Male,39,Hyderabad,Telangana,South,2026-01-14,Regular
+C10114,Customer_0114,Male,60,Nagpur,Maharashtra,West,2025-03-18,New
+C10115,Customer_0115,Female,54,Chennai,Tamil Nadu,South,2024-04-09,VIP
+C10116,Customer_0116,Male,50,Warangal,Telangana,South,2024-02-28,Loyal
+C10117,Customer_0117,Female,20,Lucknow,Uttar Pradesh,North,2025-05-22,VIP
+C10118,Customer_0118,Female,36,Surat,Gujarat,West,2024-09-14,Regular
+C10119,Customer_0119,Male,40,Surat,Gujarat,West,2025-02-16,Regular
+C10120,Customer_0120,Female,46,Udaipur,Rajasthan,North,2025-03-27,Loyal
+C10121,Customer_0121,Male,47,Noida,Uttar Pradesh,North,2024-03-05,Regular
+C10122,Customer_0122,Female,56,Noida,Uttar Pradesh,North,2025-08-17,Loyal
+C10123,Customer_0123,Male,42,Mumbai,Maharashtra,West,2024-06-02,VIP
+C10124,Customer_0124,Female,54,Ahmedabad,Gujarat,West,2024-09-22,Loyal
+C10125,Customer_0125,Other,25,Coimbatore,Tamil Nadu,South,2026-03-31,Loyal
+C10126,Customer_0126,Male,59,New Delhi,Delhi,North,2024-03-19,Regular
+C10127,Customer_0127,Female,33,New Delhi,Delhi,North,2024-11-10,Regular
+C10128,Customer_0128,Male,25,Warangal,Telangana,South,2025-10-23,VIP
+C10129,Customer_0129,Other,18,Ahmedabad,Gujarat,West,2025-07-13,New
+C10130,Customer_0130,Female,22,Surat,Gujarat,West,2026-06-09,Loyal
+C10131,Customer_0131,Female,20,New Delhi,Delhi,North,2024-09-04,Loyal
+C10132,Customer_0132,Male,18,Ahmedabad,Gujarat,West,2026-02-28,Regular
+C10133,Customer_0133,Male,21,Mumbai,Maharashtra,West,2026-05-17,VIP
+C10134,Customer_0134,Male,57,Thiruvananthapuram,Kerala,South,2025-09-01,Regular
+C10135,Customer_0135,Male,52,Bengaluru,Karnataka,South,2025-02-17,Regular
+C10136,Customer_0136,Female,49,Noida,Uttar Pradesh,North,2024-01-25,New
+C10137,Customer_0137,Female,59,Jaipur,Rajasthan,North,2024-10-10,Regular
+C10138,Customer_0138,Male,51,Hyderabad,Telangana,South,2025-03-24,Regular
+C10139,Customer_0139,Female,60,Kochi,Kerala,South,2026-05-30,Regular
+C10140,Customer_0140,Female,42,New Delhi,Delhi,North,2024-10-27,Loyal
+C10141,Customer_0141,Male,27,Lucknow,Uttar Pradesh,North,2024-03-08,VIP
+C10142,Customer_0142,Male,38,Ahmedabad,Gujarat,West,2024-01-07,New
+C10143,Customer_0143,Male,56,Jaipur,Rajasthan,North,2026-03-27,Regular
+C10144,Customer_0144,Male,44,Ahmedabad,Gujarat,West,2024-05-16,VIP
+C10145,Customer_0145,Male,44,Coimbatore,Tamil Nadu,South,2024-06-12,New
+C10146,Customer_0146,Male,19,Coimbatore,Tamil Nadu,South,2024-03-23,New
+C10147,Customer_0147,Male,58,Jaipur,Rajasthan,North,2026-06-15,New
+C10148,Customer_0148,Female,30,Jaipur,Rajasthan,North,2025-10-11,Regular
+C10149,Customer_0149,Female,26,New Delhi,Delhi,North,2025-02-23,New
+C10150,Customer_0150,Male,53,Jaipur,Rajasthan,North,2024-03-13,VIP
+C10151,Customer_0151,Male,39,Nagpur,Maharashtra,West,2024-08-24,Regular
+C10152,Customer_0152,Female,59,Ahmedabad,Gujarat,West,2024-02-15,Regular
+C10153,Customer_0153,Female,43,Thiruvananthapuram,Kerala,South,2025-09-09,New
+C10154,Customer_0154,Female,29,Kolkata,West Bengal,East,2026-03-10,Regular
+C10155,Customer_0155,Female,34,Udaipur,Rajasthan,North,2024-09-18,Loyal
+C10156,Customer_0156,Male,31,Warangal,Telangana,South,2024-06-24,Loyal
+C10157,Customer_0157,Female,31,Madurai,Tamil Nadu,South,2024-06-14,Loyal
+C10158,Customer_0158,Male,51,Mumbai,Maharashtra,West,2025-10-18,Regular
+C10159,Customer_0159,Male,37,Lucknow,Uttar Pradesh,North,2026-04-21,VIP
+C10160,Customer_0160,Male,28,Kolkata,West Bengal,East,2025-01-04,Loyal
+C10161,Customer_0161,Male,33,Thiruvananthapuram,Kerala,South,2026-03-05,Loyal
+C10162,Customer_0162,Female,48,Kolkata,West Bengal,East,2024-02-23,New
+C10163,Customer_0163,Male,23,Jaipur,Rajasthan,North,2025-11-20,New
+C10164,Customer_0164,Female,36,New Delhi,Delhi,North,2025-02-22,New
+C10165,Customer_0165,Female,54,Coimbatore,Tamil Nadu,South,2026-01-25,Loyal
+C10166,Customer_0166,Male,21,Chennai,Tamil Nadu,South,2025-05-21,Regular
+C10167,Customer_0167,Female,21,Lucknow,Uttar Pradesh,North,2024-12-06,Regular
+C10168,Customer_0168,Female,37,New Delhi,Delhi,North,2024-05-06,Loyal
+C10169,Customer_0169,Male,27,Surat,Gujarat,West,2025-02-12,Loyal
+C10170,Customer_0170,Female,41,Mangaluru,Karnataka,South,2025-01-01,VIP
+C10171,Customer_0171,Male,52,Mumbai,Maharashtra,West,2024-09-27,Regular
+C10172,Customer_0172,Female,43,Madurai,Tamil Nadu,South,2025-10-05,Loyal
+C10173,Customer_0173,Male,54,Warangal,Telangana,South,2025-08-27,Regular
+C10174,Customer_0174,Male,55,Madurai,Tamil Nadu,South,2025-01-13,New
+C10175,Customer_0175,Male,38,Kolkata,West Bengal,East,2024-03-13,New
+C10176,Customer_0176,Male,57,Madurai,Tamil Nadu,South,2024-09-04,Regular
+C10177,Customer_0177,Female,56,Chennai,Tamil Nadu,South,2026-05-09,Regular
+C10178,Customer_0178,Male,38,Bengaluru,Karnataka,South,2026-02-23,Loyal
+C10179,Customer_0179,Female,27,Mangaluru,Karnataka,South,2024-02-12,New
+C10180,Customer_0180,Male,55,Kochi,Kerala,South,2025-01-11,Loyal
+C10181,Customer_0181,Female,21,Ahmedabad,Gujarat,West,2024-02-10,Regular
+C10182,Customer_0182,Male,37,Hyderabad,Telangana,South,2024-06-18,Regular
+C10183,Customer_0183,Female,34,Madurai,Tamil Nadu,South,2024-07-30,Regular
+C10184,Customer_0184,Male,24,Chennai,Tamil Nadu,South,2025-05-07,Regular
+C10185,Customer_0185,Male,21,Nagpur,Maharashtra,West,2025-11-10,Regular
+C10186,Customer_0186,Male,46,Bengaluru,Karnataka,South,2024-02-08,Regular
+C10187,Customer_0187,Female,31,Warangal,Telangana,South,2025-01-03,New
+C10188,Customer_0188,Male,20,Lucknow,Uttar Pradesh,North,2026-01-26,New
+C10189,Customer_0189,Female,41,Kochi,Kerala,South,2024-05-30,Regular
+C10190,Customer_0190,Female,54,Surat,Gujarat,West,2024-04-20,VIP
+C10191,Customer_0191,Female,33,New Delhi,Delhi,North,2025-04-24,Regular
+C10192,Customer_0192,Female,21,Ahmedabad,Gujarat,West,2025-03-11,Loyal
+C10193,Customer_0193,Male,41,Kolkata,West Bengal,East,2024-02-16,Loyal
+C10194,Customer_0194,Male,51,Madurai,Tamil Nadu,South,2025-07-28,VIP
+C10195,Customer_0195,Female,47,Thiruvananthapuram,Kerala,South,2026-01-06,Loyal
+C10196,Customer_0196,Female,35,Kolkata,West Bengal,East,2024-12-31,Regular
+C10197,Customer_0197,Female,36,Hyderabad,Telangana,South,2024-03-09,Loyal
+C10198,Customer_0198,Female,48,New Delhi,Delhi,North,2024-10-25,Loyal
+C10199,Customer_0199,Male,36,Mysuru,Karnataka,South,2026-03-12,Regular
+C10200,Customer_0200,Female,36,Kochi,Kerala,South,2024-10-22,Regular
+C10201,Customer_0201,Female,39,Kochi,Kerala,South,2024-07-21,New
+C10202,Customer_0202,Female,41,Coimbatore,Tamil Nadu,South,2024-03-01,Loyal
+C10203,Customer_0203,Male,29,Udaipur,Rajasthan,North,2026-04-09,Loyal
+C10204,Customer_0204,Male,47,Kochi,Kerala,South,2024-11-09,New
+C10205,Customer_0205,Male,55,Mumbai,Maharashtra,West,2024-06-09,Regular
+C10206,Customer_0206,Male,48,New Delhi,Delhi,North,2024-11-26,Regular
+C10207,Customer_0207,Male,53,New Delhi,Delhi,North,2025-06-11,New
+C10208,Customer_0208,Female,36,Nagpur,Maharashtra,West,2024-12-03,VIP
+C10209,Customer_0209,Male,53,Lucknow,Uttar Pradesh,North,2025-08-28,New
+C10210,Customer_0210,Male,47,Pune,Maharashtra,West,2024-10-30,New
+C10211,Customer_0211,Male,50,Pune,Maharashtra,West,2025-05-17,Regular
+C10212,Customer_0212,Male,35,New Delhi,Delhi,North,2025-10-11,Loyal
+C10213,Customer_0213,Male,45,Ahmedabad,Gujarat,West,2024-12-03,New
+C10214,Customer_0214,Male,28,New Delhi,Delhi,North,2025-07-03,Loyal
+C10215,Customer_0215,Other,50,Udaipur,Rajasthan,North,2025-09-30,Regular
+C10216,Customer_0216,Male,34,Chennai,Tamil Nadu,South,2024-10-01,New
+C10217,Customer_0217,Male,23,Kolkata,West Bengal,East,2024-06-12,New
+C10218,Customer_0218,Male,21,Surat,Gujarat,West,2025-03-18,Regular
+C10219,Customer_0219,Female,37,Mangaluru,Karnataka,South,2024-11-14,Regular
+C10220,Customer_0220,Male,44,Kolkata,West Bengal,East,2025-08-11,VIP
+C10221,Customer_0221,Female,32,Chennai,Tamil Nadu,South,2025-05-18,Loyal
+C10222,Customer_0222,Male,23,Jaipur,Rajasthan,North,2025-11-16,VIP
+C10223,Customer_0223,Other,31,Udaipur,Rajasthan,North,2025-01-21,Regular
+C10224,Customer_0224,Male,28,Bengaluru,Karnataka,South,2026-05-19,VIP
+C10225,Customer_0225,Female,56,Ahmedabad,Gujarat,West,2026-04-12,Regular
+C10226,Customer_0226,Female,26,Noida,Uttar Pradesh,North,2026-06-06,Regular
+C10227,Customer_0227,Female,43,Nagpur,Maharashtra,West,2025-08-25,New
+C10228,Customer_0228,Male,33,Surat,Gujarat,West,2026-01-19,New
+C10229,Customer_0229,Female,22,Noida,Uttar Pradesh,North,2026-02-14,Loyal
+C10230,Customer_0230,Female,27,Jaipur,Rajasthan,North,2025-11-21,Regular
+C10231,Customer_0231,Female,20,New Delhi,Delhi,North,2025-05-08,New
+C10232,Customer_0232,Male,30,Chennai,Tamil Nadu,South,2025-05-04,Regular
+C10233,Customer_0233,Male,60,Mysuru,Karnataka,South,2025-12-21,Regular
+C10234,Customer_0234,Female,47,Madurai,Tamil Nadu,South,2024-03-13,Regular
+C10235,Customer_0235,Female,23,Warangal,Telangana,South,2025-05-23,Regular
+C10236,Customer_0236,Male,34,Warangal,Telangana,South,2025-01-24,Loyal
+C10237,Customer_0237,Male,36,Surat,Gujarat,West,2025-09-10,Loyal
+C10238,Customer_0238,Male,59,Jaipur,Rajasthan,North,2026-05-06,Regular
+C10239,Customer_0239,Female,52,Udaipur,Rajasthan,North,2024-10-21,Regular
+C10240,Customer_0240,Male,43,Mumbai,Maharashtra,West,2025-01-03,Regular
+C10241,Customer_0241,Male,22,Nagpur,Maharashtra,West,2026-03-06,Loyal
+C10242,Customer_0242,Male,46,Mumbai,Maharashtra,West,2026-05-14,Regular
+C10243,Customer_0243,Male,54,New Delhi,Delhi,North,2025-11-24,New
+C10244,Customer_0244,Female,37,Kolkata,West Bengal,East,2025-07-02,New
+C10245,Customer_0245,Female,38,Kochi,Kerala,South,2025-10-10,Regular
+C10246,Customer_0246,Male,27,Kolkata,West Bengal,East,2026-04-29,Regular
+C10247,Customer_0247,Male,22,Coimbatore,Tamil Nadu,South,2025-07-21,Loyal
+C10248,Customer_0248,Male,53,Kolkata,West Bengal,East,2024-07-05,New
+C10249,Customer_0249,Male,23,New Delhi,Delhi,North,2026-05-02,Regular
+C10250,Customer_0250,Male,43,Chennai,Tamil Nadu,South,2026-02-08,Loyal
+C10251,Customer_0251,Male,21,Kolkata,West Bengal,East,2025-03-20,Loyal
+C10252,Customer_0252,Female,56,New Delhi,Delhi,North,2025-07-23,Regular
+C10253,Customer_0253,Male,56,Thiruvananthapuram,Kerala,South,2024-12-28,Regular
+C10254,Customer_0254,Female,52,Kolkata,West Bengal,East,2024-05-02,Regular
+C10255,Customer_0255,Female,18,New Delhi,Delhi,North,2024-07-06,VIP
+C10256,Customer_0256,Other,41,Nagpur,Maharashtra,West,2026-01-11,New
+C10257,Customer_0257,Female,53,Udaipur,Rajasthan,North,2025-11-10,VIP
+C10258,Customer_0258,Female,23,Pune,Maharashtra,West,2025-02-23,Loyal
+C10259,Customer_0259,Female,58,Jaipur,Rajasthan,North,2025-09-17,Regular
+C10260,Customer_0260,Male,48,Mysuru,Karnataka,South,2024-09-08,New
+C10261,Customer_0261,Female,37,Bengaluru,Karnataka,South,2025-09-10,Regular
+C10262,Customer_0262,Female,41,Mysuru,Karnataka,South,2025-07-02,Regular
+C10263,Customer_0263,Female,42,Thiruvananthapuram,Kerala,South,2024-11-30,New
+C10264,Customer_0264,Female,53,Mumbai,Maharashtra,West,2024-04-01,Loyal
+C10265,Customer_0265,Female,38,Udaipur,Rajasthan,North,2025-06-13,VIP
+C10266,Customer_0266,Female,47,New Delhi,Delhi,North,2026-05-15,Regular
+C10267,Customer_0267,Male,41,Chennai,Tamil Nadu,South,2024-03-03,Loyal
+C10268,Customer_0268,Female,59,New Delhi,Delhi,North,2025-10-23,New
+C10269,Customer_0269,Female,47,Madurai,Tamil Nadu,South,2025-05-26,Regular
+C10270,Customer_0270,Female,39,Hyderabad,Telangana,South,2024-05-18,New
+C10271,Customer_0271,Female,45,New Delhi,Delhi,North,2025-11-28,Regular
+C10272,Customer_0272,Male,24,Kolkata,West Bengal,East,2024-07-03,VIP
+C10273,Customer_0273,Male,52,Kolkata,West Bengal,East,2024-07-23,Loyal
+C10274,Customer_0274,Female,45,Ahmedabad,Gujarat,West,2026-02-10,New
+C10275,Customer_0275,Female,31,Mumbai,Maharashtra,West,2024-08-01,Regular
+C10276,Customer_0276,Female,27,Chennai,Tamil Nadu,South,2024-09-12,Regular
+C10277,Customer_0277,Male,33,Coimbatore,Tamil Nadu,South,2024-05-14,Regular
+C10278,Customer_0278,Male,33,Pune,Maharashtra,West,2025-07-26,Loyal
+C10279,Customer_0279,Male,48,Thiruvananthapuram,Kerala,South,2026-05-24,Loyal
+C10280,Customer_0280,Female,59,Ahmedabad,Gujarat,West,2026-04-01,Regular
+C10281,Customer_0281,Male,42,Thiruvananthapuram,Kerala,South,2024-03-28,Regular
+C10282,Customer_0282,Female,30,Kochi,Kerala,South,2026-04-15,Regular
+C10283,Customer_0283,Female,23,Kochi,Kerala,South,2024-07-25,New
+C10284,Customer_0284,Female,26,Pune,Maharashtra,West,2024-05-08,Regular
+C10285,Customer_0285,Female,53,Thiruvananthapuram,Kerala,South,2026-04-02,Regular
+C10286,Customer_0286,Male,60,Kolkata,West Bengal,East,2024-01-03,Loyal
+C10287,Customer_0287,Male,37,Bengaluru,Karnataka,South,2026-01-23,Loyal
+C10288,Customer_0288,Female,35,Hyderabad,Telangana,South,2024-04-30,New
+C10289,Customer_0289,Male,60,Coimbatore,Tamil Nadu,South,2025-01-19,Regular
+C10290,Customer_0290,Other,38,Coimbatore,Tamil Nadu,South,2025-09-05,New
+C10291,Customer_0291,Male,21,Warangal,Telangana,South,2024-02-07,New
+C10292,Customer_0292,Male,50,Mumbai,Maharashtra,West,2024-12-06,Loyal
+C10293,Customer_0293,Male,44,New Delhi,Delhi,North,2025-10-06,New
+C10294,Customer_0294,Other,24,Pune,Maharashtra,West,2025-12-14,Regular
+C10295,Customer_0295,Male,23,Coimbatore,Tamil Nadu,South,2026-05-09,New
+C10296,Customer_0296,Female,32,Madurai,Tamil Nadu,South,2024-01-21,Loyal
+C10297,Customer_0297,Female,35,Hyderabad,Telangana,South,2024-08-29,Regular
+C10298,Customer_0298,Male,49,Kochi,Kerala,South,2025-03-30,New
+C10299,Customer_0299,Female,28,Nagpur,Maharashtra,West,2025-09-12,Regular
+C10300,Customer_0300,Male,37,Udaipur,Rajasthan,North,2024-10-29,Loyal
+C10301,Customer_0301,Female,41,Hyderabad,Telangana,South,2025-08-18,VIP
+C10302,Customer_0302,Female,32,Kolkata,West Bengal,East,2025-08-17,New
+C10303,Customer_0303,Female,24,Coimbatore,Tamil Nadu,South,2026-03-13,Loyal
+C10304,Customer_0304,Female,38,Warangal,Telangana,South,2024-03-09,VIP
+C10305,Customer_0305,Male,59,Mumbai,Maharashtra,West,2024-05-08,VIP
+C10306,Customer_0306,Male,43,Madurai,Tamil Nadu,South,2024-07-14,Regular
+C10307,Customer_0307,Male,31,New Delhi,Delhi,North,2024-05-19,Regular
+C10308,Customer_0308,Male,54,Hyderabad,Telangana,South,2025-03-19,Regular
+C10309,Customer_0309,Female,38,Surat,Gujarat,West,2024-10-09,Loyal
+C10310,Customer_0310,Male,35,Coimbatore,Tamil Nadu,South,2024-11-07,Regular
+C10311,Customer_0311,Male,22,Pune,Maharashtra,West,2026-01-15,Loyal
+C10312,Customer_0312,Male,20,Mysuru,Karnataka,South,2025-06-18,Regular
+C10313,Customer_0313,Female,40,Jaipur,Rajasthan,North,2025-10-26,Loyal
+C10314,Customer_0314,Male,43,Noida,Uttar Pradesh,North,2024-10-03,Loyal
+C10315,Customer_0315,Male,54,Kochi,Kerala,South,2024-03-01,New
+C10316,Customer_0316,Other,41,Noida,Uttar Pradesh,North,2024-11-14,Loyal
+C10317,Customer_0317,Male,36,Nagpur,Maharashtra,West,2026-06-08,Regular
+C10318,Customer_0318,Female,42,Kolkata,West Bengal,East,2024-02-21,Loyal
+C10319,Customer_0319,Male,38,Kolkata,West Bengal,East,2026-05-05,Regular
+C10320,Customer_0320,Male,29,Bengaluru,Karnataka,South,2024-06-01,Regular
+C10321,Customer_0321,Female,58,Thiruvananthapuram,Kerala,South,2026-01-18,VIP
+C10322,Customer_0322,Male,50,Surat,Gujarat,West,2024-11-06,Regular
+C10323,Customer_0323,Male,21,Mysuru,Karnataka,South,2026-03-24,Loyal
+C10324,Customer_0324,Female,59,Noida,Uttar Pradesh,North,2025-06-27,Regular
+C10325,Customer_0325,Female,24,Mangaluru,Karnataka,South,2025-07-20,Regular
+C10326,Customer_0326,Female,39,Noida,Uttar Pradesh,North,2026-05-13,Regular
+C10327,Customer_0327,Female,50,Chennai,Tamil Nadu,South,2025-01-23,Regular
+C10328,Customer_0328,Female,34,Kolkata,West Bengal,East,2025-07-01,Regular
+C10329,Customer_0329,Male,41,Coimbatore,Tamil Nadu,South,2025-09-13,New
+C10330,Customer_0330,Female,51,Jaipur,Rajasthan,North,2024-06-25,Regular
+C10331,Customer_0331,Female,45,Kochi,Kerala,South,2024-12-27,New
+C10332,Customer_0332,Male,60,Surat,Gujarat,West,2024-11-09,VIP
+C10333,Customer_0333,Male,58,Lucknow,Uttar Pradesh,North,2026-03-17,VIP
+C10334,Customer_0334,Female,56,Surat,Gujarat,West,2026-04-27,Regular
+C10335,Customer_0335,Female,39,Lucknow,Uttar Pradesh,North,2024-04-06,Loyal
+C10336,Customer_0336,Female,34,Pune,Maharashtra,West,2026-05-30,Regular
+C10337,Customer_0337,Male,51,Mangaluru,Karnataka,South,2024-07-31,Loyal
+C10338,Customer_0338,Female,23,Udaipur,Rajasthan,North,2026-04-08,Loyal
+C10339,Customer_0339,Male,23,Kolkata,West Bengal,East,2024-05-16,VIP
+C10340,Customer_0340,Male,51,Noida,Uttar Pradesh,North,2024-01-06,Regular
+C10341,Customer_0341,Female,18,Ahmedabad,Gujarat,West,2024-04-18,Loyal
+C10342,Customer_0342,Male,27,Jaipur,Rajasthan,North,2025-06-30,Regular
+C10343,Customer_0343,Other,38,New Delhi,Delhi,North,2024-02-08,VIP
+C10344,Customer_0344,Female,22,New Delhi,Delhi,North,2025-10-23,New
+C10345,Customer_0345,Male,19,Chennai,Tamil Nadu,South,2025-02-28,Regular
+C10346,Customer_0346,Male,39,Kolkata,West Bengal,East,2025-09-21,Loyal
+C10347,Customer_0347,Male,19,Nagpur,Maharashtra,West,2024-09-17,Loyal
+C10348,Customer_0348,Male,27,Surat,Gujarat,West,2025-03-01,New
+C10349,Customer_0349,Male,51,Mangaluru,Karnataka,South,2024-03-27,VIP
+C10350,Customer_0350,Male,33,Bengaluru,Karnataka,South,2025-04-09,New
+C10351,Customer_0351,Male,56,Surat,Gujarat,West,2024-03-16,Regular
+C10352,Customer_0352,Male,39,Thiruvananthapuram,Kerala,South,2025-04-15,New
+C10353,Customer_0353,Male,29,Nagpur,Maharashtra,West,2025-02-17,Regular
+C10354,Customer_0354,Male,41,Jaipur,Rajasthan,North,2026-04-04,Regular
+C10355,Customer_0355,Female,57,Noida,Uttar Pradesh,North,2026-06-13,Regular
+C10356,Customer_0356,Female,55,Kochi,Kerala,South,2025-12-26,New
+C10357,Customer_0357,Female,27,Lucknow,Uttar Pradesh,North,2025-04-01,New
+C10358,Customer_0358,Female,52,Noida,Uttar Pradesh,North,2024-10-11,Regular
+C10359,Customer_0359,Female,49,Kochi,Kerala,South,2024-08-26,Loyal
+C10360,Customer_0360,Male,24,Madurai,Tamil Nadu,South,2025-11-07,Loyal
+C10361,Customer_0361,Female,38,New Delhi,Delhi,North,2025-08-21,New
+C10362,Customer_0362,Male,37,Lucknow,Uttar Pradesh,North,2025-10-14,Regular
+C10363,Customer_0363,Female,43,Thiruvananthapuram,Kerala,South,2025-11-02,New
+C10364,Customer_0364,Male,21,Kochi,Kerala,South,2025-07-11,New
+C10365,Customer_0365,Male,39,Warangal,Telangana,South,2025-01-06,Loyal
+C10366,Customer_0366,Female,32,Chennai,Tamil Nadu,South,2025-05-09,Regular
+C10367,Customer_0367,Male,57,Kolkata,West Bengal,East,2025-09-15,New
+C10368,Customer_0368,Female,38,Hyderabad,Telangana,South,2024-02-14,New
+C10369,Customer_0369,Male,32,Hyderabad,Telangana,South,2025-02-04,New
+C10370,Customer_0370,Female,39,Surat,Gujarat,West,2024-09-03,Loyal
+C10371,Customer_0371,Male,45,New Delhi,Delhi,North,2025-09-07,VIP
+C10372,Customer_0372,Female,31,Thiruvananthapuram,Kerala,South,2025-08-19,New
+C10373,Customer_0373,Male,44,New Delhi,Delhi,North,2025-03-25,New
+C10374,Customer_0374,Male,58,Mumbai,Maharashtra,West,2025-04-29,Loyal
+C10375,Customer_0375,Female,57,Surat,Gujarat,West,2025-10-07,VIP
+C10376,Customer_0376,Female,45,Kolkata,West Bengal,East,2025-09-11,Regular
+C10377,Customer_0377,Female,43,New Delhi,Delhi,North,2024-01-18,New
+C10378,Customer_0378,Female,19,Mangaluru,Karnataka,South,2025-08-28,New
+C10379,Customer_0379,Male,42,Noida,Uttar Pradesh,North,2025-10-23,Regular
+C10380,Customer_0380,Female,20,Nagpur,Maharashtra,West,2026-01-27,Regular
+C10381,Customer_0381,Female,25,Chennai,Tamil Nadu,South,2024-10-15,New
+C10382,Customer_0382,Female,50,Kolkata,West Bengal,East,2025-02-17,Regular
+C10383,Customer_0383,Male,59,Mumbai,Maharashtra,West,2025-12-21,New
+C10384,Customer_0384,Female,52,Lucknow,Uttar Pradesh,North,2025-09-29,Loyal
+C10385,Customer_0385,Female,23,Surat,Gujarat,West,2024-08-22,Regular
+C10386,Customer_0386,Female,56,Noida,Uttar Pradesh,North,2025-02-19,New
+C10387,Customer_0387,Female,40,Warangal,Telangana,South,2025-05-13,Regular
+C10388,Customer_0388,Male,42,Lucknow,Uttar Pradesh,North,2025-09-25,Regular
+C10389,Customer_0389,Female,60,Hyderabad,Telangana,South,2025-10-11,VIP
+C10390,Customer_0390,Female,36,Surat,Gujarat,West,2024-04-24,Regular
+C10391,Customer_0391,Male,22,Jaipur,Rajasthan,North,2025-11-04,Regular
+C10392,Customer_0392,Male,28,Warangal,Telangana,South,2025-12-13,Loyal
+C10393,Customer_0393,Female,29,Coimbatore,Tamil Nadu,South,2024-08-21,Regular
+C10394,Customer_0394,Male,27,Noida,Uttar Pradesh,North,2025-06-23,VIP
+C10395,Customer_0395,Male,25,Noida,Uttar Pradesh,North,2024-01-11,Regular
+C10396,Customer_0396,Female,41,Chennai,Tamil Nadu,South,2024-07-24,Regular
+C10397,Customer_0397,Male,45,Mangaluru,Karnataka,South,2025-11-09,New
+C10398,Customer_0398,Male,58,Kochi,Kerala,South,2024-09-03,Regular
+C10399,Customer_0399,Female,53,Udaipur,Rajasthan,North,2025-07-12,Loyal
+C10400,Customer_0400,Female,54,Kolkata,West Bengal,East,2026-01-27,Loyal
+C10401,Customer_0401,Female,38,Warangal,Telangana,South,2024-05-06,New
+C10402,Customer_0402,Male,25,Coimbatore,Tamil Nadu,South,2024-05-26,New
+C10403,Customer_0403,Other,26,Ahmedabad,Gujarat,West,2024-04-27,Loyal
+C10404,Customer_0404,Male,32,Hyderabad,Telangana,South,2025-01-16,VIP
+C10405,Customer_0405,Female,57,Thiruvananthapuram,Kerala,South,2025-02-15,New
+C10406,Customer_0406,Male,35,Surat,Gujarat,West,2025-10-25,Regular
+C10407,Customer_0407,Male,59,Pune,Maharashtra,West,2025-08-06,Regular
+C10408,Customer_0408,Female,37,Lucknow,Uttar Pradesh,North,2024-12-28,Loyal
+C10409,Customer_0409,Female,23,Mumbai,Maharashtra,West,2025-05-23,New
+C10410,Customer_0410,Male,29,Hyderabad,Telangana,South,2024-05-16,New
+C10411,Customer_0411,Female,19,Thiruvananthapuram,Kerala,South,2024-06-23,Loyal
+C10412,Customer_0412,Male,24,Udaipur,Rajasthan,North,2024-10-15,New
+C10413,Customer_0413,Female,33,Hyderabad,Telangana,South,2025-04-25,Regular
+C10414,Customer_0414,Female,20,Coimbatore,Tamil Nadu,South,2024-01-19,Regular
+C10415,Customer_0415,Female,20,New Delhi,Delhi,North,2024-07-13,Regular
+C10416,Customer_0416,Female,44,Hyderabad,Telangana,South,2024-11-25,Regular
+C10417,Customer_0417,Male,60,Noida,Uttar Pradesh,North,2024-06-23,Regular
+C10418,Customer_0418,Female,57,Lucknow,Uttar Pradesh,North,2025-03-24,New
+C10419,Customer_0419,Male,55,Warangal,Telangana,South,2024-12-19,Regular
+C10420,Customer_0420,Male,50,Ahmedabad,Gujarat,West,2025-05-13,Loyal
+C10421,Customer_0421,Male,45,New Delhi,Delhi,North,2024-05-20,Loyal
+C10422,Customer_0422,Female,18,Chennai,Tamil Nadu,South,2026-01-27,New
+C10423,Customer_0423,Male,25,Hyderabad,Telangana,South,2026-06-15,New
+C10424,Customer_0424,Male,54,Ahmedabad,Gujarat,West,2024-04-02,Regular
+C10425,Customer_0425,Female,49,Lucknow,Uttar Pradesh,North,2024-08-26,Regular
+C10426,Customer_0426,Female,60,Lucknow,Uttar Pradesh,North,2024-07-23,Regular
+C10427,Customer_0427,Male,54,Thiruvananthapuram,Kerala,South,2025-07-13,Loyal
+C10428,Customer_0428,Male,21,Warangal,Telangana,South,2025-03-08,New
+C10429,Customer_0429,Female,47,New Delhi,Delhi,North,2024-09-01,New
+C10430,Customer_0430,Male,23,Mangaluru,Karnataka,South,2026-04-11,Regular
+C10431,Customer_0431,Male,36,New Delhi,Delhi,North,2024-11-12,Loyal
+C10432,Customer_0432,Male,49,Lucknow,Uttar Pradesh,North,2024-10-21,New
+C10433,Customer_0433,Male,26,Noida,Uttar Pradesh,North,2025-10-01,Regular
+C10434,Customer_0434,Male,29,Nagpur,Maharashtra,West,2026-05-05,Regular
+C10435,Customer_0435,Female,28,Lucknow,Uttar Pradesh,North,2024-10-08,Loyal
+C10436,Customer_0436,Female,33,Chennai,Tamil Nadu,South,2024-01-17,Loyal
+C10437,Customer_0437,Female,18,Kolkata,West Bengal,East,2024-03-11,Regular
+C10438,Customer_0438,Male,38,Hyderabad,Telangana,South,2024-09-25,New
+C10439,Customer_0439,Male,47,New Delhi,Delhi,North,2024-11-20,Regular
+C10440,Customer_0440,Female,30,Kolkata,West Bengal,East,2026-03-04,New
+C10441,Customer_0441,Male,51,Ahmedabad,Gujarat,West,2024-10-31,Loyal
+C10442,Customer_0442,Male,21,Mysuru,Karnataka,South,2025-03-26,Loyal
+C10443,Customer_0443,Male,45,Coimbatore,Tamil Nadu,South,2024-01-07,Loyal
+C10444,Customer_0444,Female,55,New Delhi,Delhi,North,2024-11-09,Loyal
+C10445,Customer_0445,Male,48,Kolkata,West Bengal,East,2026-03-27,Regular
+C10446,Customer_0446,Female,44,Bengaluru,Karnataka,South,2024-04-12,New
+C10447,Customer_0447,Female,22,Nagpur,Maharashtra,West,2026-03-31,Loyal
+C10448,Customer_0448,Female,42,Madurai,Tamil Nadu,South,2024-07-11,Regular
+C10449,Customer_0449,Female,20,Chennai,Tamil Nadu,South,2026-01-22,Loyal
+C10450,Customer_0450,Female,50,Pune,Maharashtra,West,2025-07-27,Regular
+C10451,Customer_0451,Male,21,Warangal,Telangana,South,2025-06-12,New
+C10452,Customer_0452,Female,42,Pune,Maharashtra,West,2024-06-19,VIP
+C10453,Customer_0453,Male,37,Chennai,Tamil Nadu,South,2025-06-20,New
+C10454,Customer_0454,Female,51,Coimbatore,Tamil Nadu,South,2024-09-07,VIP
+C10455,Customer_0455,Male,43,Kolkata,West Bengal,East,2026-02-03,VIP
+C10456,Customer_0456,Male,22,Lucknow,Uttar Pradesh,North,2025-01-21,Loyal
+C10457,Customer_0457,Female,52,Bengaluru,Karnataka,South,2024-07-25,Loyal
+C10458,Customer_0458,Female,45,Nagpur,Maharashtra,West,2025-06-24,Regular
+C10459,Customer_0459,Female,46,Mysuru,Karnataka,South,2025-09-20,Loyal
+C10460,Customer_0460,Male,26,Mumbai,Maharashtra,West,2025-02-19,Regular
+C10461,Customer_0461,Male,55,Surat,Gujarat,West,2026-03-04,Regular
+C10462,Customer_0462,Female,23,Coimbatore,Tamil Nadu,South,2025-01-14,Regular
+C10463,Customer_0463,Male,36,Lucknow,Uttar Pradesh,North,2024-05-23,Regular
+C10464,Customer_0464,Female,28,Kolkata,West Bengal,East,2024-01-25,Regular
+C10465,Customer_0465,Female,19,Noida,Uttar Pradesh,North,2026-04-01,Regular
+C10466,Customer_0466,Male,26,Lucknow,Uttar Pradesh,North,2025-10-29,Regular
+C10467,Customer_0467,Female,38,Noida,Uttar Pradesh,North,2024-03-13,Loyal
+C10468,Customer_0468,Male,41,Bengaluru,Karnataka,South,2025-09-23,New
+C10469,Customer_0469,Female,51,Pune,Maharashtra,West,2026-04-03,VIP
+C10470,Customer_0470,Other,39,Jaipur,Rajasthan,North,2026-04-12,Loyal
+C10471,Customer_0471,Female,20,Surat,Gujarat,West,2024-04-02,Loyal
+C10472,Customer_0472,Female,29,New Delhi,Delhi,North,2025-05-19,Regular
+C10473,Customer_0473,Male,45,Lucknow,Uttar Pradesh,North,2025-08-20,Loyal
+C10474,Customer_0474,Female,47,Warangal,Telangana,South,2024-12-01,New
+C10475,Customer_0475,Other,43,Mysuru,Karnataka,South,2025-02-28,Loyal
+C10476,Customer_0476,Male,38,Kolkata,West Bengal,East,2025-05-13,New
+C10477,Customer_0477,Male,45,New Delhi,Delhi,North,2024-12-29,Loyal
+C10478,Customer_0478,Male,43,Udaipur,Rajasthan,North,2025-09-21,VIP
+C10479,Customer_0479,Male,50,Warangal,Telangana,South,2026-01-14,Regular
+C10480,Customer_0480,Male,38,Udaipur,Rajasthan,North,2024-07-17,New
+C10481,Customer_0481,Male,52,New Delhi,Delhi,North,2025-12-18,Loyal
+C10482,Customer_0482,Male,51,Noida,Uttar Pradesh,North,2025-02-16,Regular
+C10483,Customer_0483,Female,58,Warangal,Telangana,South,2024-12-04,Loyal
+C10484,Customer_0484,Female,35,Udaipur,Rajasthan,North,2025-10-20,New
+C10485,Customer_0485,Male,28,Kolkata,West Bengal,East,2025-03-04,New
+C10486,Customer_0486,Female,40,Pune,Maharashtra,West,2026-02-21,VIP
+C10487,Customer_0487,Male,39,Chennai,Tamil Nadu,South,2026-06-17,Loyal
+C10488,Customer_0488,Female,34,Nagpur,Maharashtra,West,2024-05-18,Loyal
+C10489,Customer_0489,Female,22,New Delhi,Delhi,North,2025-11-23,Regular
+C10490,Customer_0490,Male,28,Mysuru,Karnataka,South,2025-06-25,Loyal
+C10491,Customer_0491,Male,47,Madurai,Tamil Nadu,South,2024-02-26,Regular
+C10492,Customer_0492,Female,32,Surat,Gujarat,West,2024-08-19,Regular
+C10493,Customer_0493,Male,44,Kolkata,West Bengal,East,2025-10-19,Loyal
+C10494,Customer_0494,Male,52,Surat,Gujarat,West,2025-03-10,Regular
+C10495,Customer_0495,Female,50,Hyderabad,Telangana,South,2025-01-18,Regular
+C10496,Customer_0496,Male,37,Chennai,Tamil Nadu,South,2025-07-13,Regular
+C10497,Customer_0497,Female,33,Ahmedabad,Gujarat,West,2024-07-12,Loyal
+C10498,Customer_0498,Female,51,Surat,Gujarat,West,2026-01-05,New
+C10499,Customer_0499,Other,19,Jaipur,Rajasthan,North,2025-10-09,Loyal
+C10500,Customer_0500,Female,52,Mumbai,Maharashtra,West,2025-06-17,New
+C10501,Customer_0501,Male,57,Udaipur,Rajasthan,North,2025-06-01,Regular
+C10502,Customer_0502,Male,45,Madurai,Tamil Nadu,South,2025-12-16,Loyal
+C10503,Customer_0503,Female,56,Chennai,Tamil Nadu,South,2026-01-20,New
+C10504,Customer_0504,Male,23,New Delhi,Delhi,North,2024-07-03,New
+C10505,Customer_0505,Male,26,Udaipur,Rajasthan,North,2026-05-21,New
+C10506,Customer_0506,Female,37,Kochi,Kerala,South,2024-10-18,Regular
+C10507,Customer_0507,Male,18,Nagpur,Maharashtra,West,2024-11-30,Loyal
+C10508,Customer_0508,Male,25,Coimbatore,Tamil Nadu,South,2026-01-01,New
+C10509,Customer_0509,Male,40,New Delhi,Delhi,North,2024-04-25,Loyal
+C10510,Customer_0510,Male,20,Jaipur,Rajasthan,North,2026-04-04,Regular
+C10511,Customer_0511,Female,21,Nagpur,Maharashtra,West,2024-02-18,Regular
+C10512,Customer_0512,Male,42,Udaipur,Rajasthan,North,2025-11-15,VIP
+C10513,Customer_0513,Male,55,Surat,Gujarat,West,2024-03-22,Regular
+C10514,Customer_0514,Male,32,New Delhi,Delhi,North,2026-04-13,Regular
+C10515,Customer_0515,Male,38,Nagpur,Maharashtra,West,2024-11-28,New
+C10516,Customer_0516,Male,52,Noida,Uttar Pradesh,North,2025-07-10,New
+C10517,Customer_0517,Male,31,Warangal,Telangana,South,2024-11-30,Regular
+C10518,Customer_0518,Male,53,Hyderabad,Telangana,South,2025-06-15,New
+C10519,Customer_0519,Male,29,Nagpur,Maharashtra,West,2024-08-08,Regular
+C10520,Customer_0520,Male,34,Jaipur,Rajasthan,North,2025-09-26,Regular
+C10521,Customer_0521,Male,56,New Delhi,Delhi,North,2026-01-15,Regular
+C10522,Customer_0522,Male,26,Hyderabad,Telangana,South,2026-01-02,New
+C10523,Customer_0523,Female,52,New Delhi,Delhi,North,2024-11-18,Regular
+C10524,Customer_0524,Female,30,Warangal,Telangana,South,2026-04-30,Loyal
+C10525,Customer_0525,Female,32,Ahmedabad,Gujarat,West,2024-01-03,VIP
+C10526,Customer_0526,Male,35,Jaipur,Rajasthan,North,2025-11-24,New
+C10527,Customer_0527,Male,50,Ahmedabad,Gujarat,West,2024-07-24,Loyal
+C10528,Customer_0528,Male,23,Warangal,Telangana,South,2026-04-11,Regular
+C10529,Customer_0529,Female,44,Noida,Uttar Pradesh,North,2024-02-09,Regular
+C10530,Customer_0530,Male,40,Noida,Uttar Pradesh,North,2024-02-28,Regular
+C10531,Customer_0531,Female,44,Surat,Gujarat,West,2025-07-27,New
+C10532,Customer_0532,Female,51,Noida,Uttar Pradesh,North,2025-10-05,New
+C10533,Customer_0533,Male,55,Warangal,Telangana,South,2025-05-21,Regular
+C10534,Customer_0534,Male,31,Nagpur,Maharashtra,West,2025-07-25,Regular
+C10535,Customer_0535,Female,53,Ahmedabad,Gujarat,West,2026-06-02,VIP
+C10536,Customer_0536,Female,25,Mangaluru,Karnataka,South,2026-04-22,Regular
+C10537,Customer_0537,Female,52,Jaipur,Rajasthan,North,2024-05-01,New
+C10538,Customer_0538,Female,36,Noida,Uttar Pradesh,North,2025-04-23,Loyal
+C10539,Customer_0539,Male,47,Lucknow,Uttar Pradesh,North,2025-09-10,Regular
+C10540,Customer_0540,Female,31,Madurai,Tamil Nadu,South,2024-04-05,Regular
+C10541,Customer_0541,Male,37,Kochi,Kerala,South,2026-05-08,Loyal
+C10542,Customer_0542,Male,42,Ahmedabad,Gujarat,West,2025-02-17,VIP
+C10543,Customer_0543,Female,57,Kolkata,West Bengal,East,2024-08-22,Loyal
+C10544,Customer_0544,Female,41,Noida,Uttar Pradesh,North,2026-06-16,Loyal
+C10545,Customer_0545,Female,31,Udaipur,Rajasthan,North,2024-03-02,Loyal
+C10546,Customer_0546,Female,43,Mysuru,Karnataka,South,2024-09-12,VIP
+C10547,Customer_0547,Female,55,Lucknow,Uttar Pradesh,North,2025-07-14,Regular
+C10548,Customer_0548,Male,40,Bengaluru,Karnataka,South,2024-12-13,New
+C10549,Customer_0549,Female,39,Warangal,Telangana,South,2025-11-01,Regular
+C10550,Customer_0550,Male,36,Warangal,Telangana,South,2024-05-03,New
+C10551,Customer_0551,Female,20,Thiruvananthapuram,Kerala,South,2025-04-26,Loyal
+C10552,Customer_0552,Male,59,Nagpur,Maharashtra,West,2024-11-12,Regular
+C10553,Customer_0553,Male,36,Kolkata,West Bengal,East,2025-05-18,Regular
+C10554,Customer_0554,Male,26,Coimbatore,Tamil Nadu,South,2025-12-19,New
+C10555,Customer_0555,Male,45,Kochi,Kerala,South,2024-02-17,Loyal
+C10556,Customer_0556,Male,37,New Delhi,Delhi,North,2025-02-12,Regular
+C10557,Customer_0557,Male,24,Madurai,Tamil Nadu,South,2024-05-15,Loyal
+C10558,Customer_0558,Male,31,Ahmedabad,Gujarat,West,2024-07-19,Regular
+C10559,Customer_0559,Male,26,Jaipur,Rajasthan,North,2024-09-06,Regular
+C10560,Customer_0560,Female,36,New Delhi,Delhi,North,2024-11-09,New
+C10561,Customer_0561,Female,31,New Delhi,Delhi,North,2026-05-18,New
+C10562,Customer_0562,Male,55,Kochi,Kerala,South,2025-01-02,Loyal
+C10563,Customer_0563,Male,53,Pune,Maharashtra,West,2025-03-04,VIP
+C10564,Customer_0564,Male,57,Thiruvananthapuram,Kerala,South,2026-04-09,Regular
+C10565,Customer_0565,Male,34,Ahmedabad,Gujarat,West,2026-03-17,New
+C10566,Customer_0566,Other,47,Noida,Uttar Pradesh,North,2025-04-24,Regular
+C10567,Customer_0567,Female,26,Noida,Uttar Pradesh,North,2024-11-09,Loyal
+C10568,Customer_0568,Female,50,Mumbai,Maharashtra,West,2025-05-14,Loyal
+C10569,Customer_0569,Female,42,Ahmedabad,Gujarat,West,2025-12-21,New
+C10570,Customer_0570,Female,31,Pune,Maharashtra,West,2024-12-20,New
+C10571,Customer_0571,Male,28,Bengaluru,Karnataka,South,2025-04-29,Loyal
+C10572,Customer_0572,Female,52,Noida,Uttar Pradesh,North,2024-07-29,Regular
+C10573,Customer_0573,Male,58,New Delhi,Delhi,North,2025-12-04,Regular
+C10574,Customer_0574,Female,31,Kolkata,West Bengal,East,2024-02-13,New
+C10575,Customer_0575,Male,47,Udaipur,Rajasthan,North,2025-06-24,Regular
+C10576,Customer_0576,Male,58,Surat,Gujarat,West,2025-07-24,Loyal
+C10577,Customer_0577,Female,21,Coimbatore,Tamil Nadu,South,2025-08-05,VIP
+C10578,Customer_0578,Male,21,Nagpur,Maharashtra,West,2024-04-01,Regular
+C10579,Customer_0579,Female,45,Jaipur,Rajasthan,North,2024-09-21,Regular
+C10580,Customer_0580,Female,25,Chennai,Tamil Nadu,South,2026-06-13,New
+C10581,Customer_0581,Female,19,Udaipur,Rajasthan,North,2024-08-07,Regular
+C10582,Customer_0582,Female,58,Kolkata,West Bengal,East,2025-03-17,Regular
+C10583,Customer_0583,Female,39,Coimbatore,Tamil Nadu,South,2025-02-04,Regular
+C10584,Customer_0584,Male,58,Thiruvananthapuram,Kerala,South,2025-02-03,Regular
+C10585,Customer_0585,Male,33,Warangal,Telangana,South,2025-12-27,New
+C10586,Customer_0586,Male,46,Thiruvananthapuram,Kerala,South,2026-06-17,New
+C10587,Customer_0587,Female,47,Lucknow,Uttar Pradesh,North,2026-02-27,Regular
+C10588,Customer_0588,Male,29,Warangal,Telangana,South,2025-07-29,New
+C10589,Customer_0589,Female,52,Thiruvananthapuram,Kerala,South,2026-05-07,New
+C10590,Customer_0590,Female,28,Hyderabad,Telangana,South,2026-03-14,VIP
+C10591,Customer_0591,Male,38,Warangal,Telangana,South,2025-05-04,Regular
+C10592,Customer_0592,Female,38,New Delhi,Delhi,North,2025-04-29,Regular
+C10593,Customer_0593,Male,22,Mumbai,Maharashtra,West,2026-01-26,Loyal
+C10594,Customer_0594,Male,37,Nagpur,Maharashtra,West,2025-04-14,VIP
+C10595,Customer_0595,Female,54,New Delhi,Delhi,North,2025-07-27,Regular
+C10596,Customer_0596,Female,20,Jaipur,Rajasthan,North,2026-04-23,Loyal
+C10597,Customer_0597,Female,50,Bengaluru,Karnataka,South,2025-11-12,Regular
+C10598,Customer_0598,Male,26,Jaipur,Rajasthan,North,2025-03-20,Regular
+C10599,Customer_0599,Female,26,Chennai,Tamil Nadu,South,2024-09-25,Regular
+C10600,Customer_0600,Female,21,Chennai,Tamil Nadu,South,2024-09-23,Loyal
+C10601,Customer_0601,Female,52,Warangal,Telangana,South,2024-02-23,Loyal
+C10602,Customer_0602,Male,34,Thiruvananthapuram,Kerala,South,2025-06-11,Regular
+C10603,Customer_0603,Female,51,Kochi,Kerala,South,2025-06-03,New
+C10604,Customer_0604,Female,41,Pune,Maharashtra,West,2025-09-07,Regular
+C10605,Customer_0605,Male,49,Surat,Gujarat,West,2024-02-28,New
+C10606,Customer_0606,Male,18,Jaipur,Rajasthan,North,2026-04-04,Regular
+C10607,Customer_0607,Female,25,Lucknow,Uttar Pradesh,North,2024-02-09,Loyal
+C10608,Customer_0608,Female,40,Kolkata,West Bengal,East,2024-08-24,Loyal
+C10609,Customer_0609,Female,57,Thiruvananthapuram,Kerala,South,2025-01-20,Loyal
+C10610,Customer_0610,Male,29,Kolkata,West Bengal,East,2025-08-28,Loyal
+C10611,Customer_0611,Female,29,Hyderabad,Telangana,South,2026-01-03,Regular
+C10612,Customer_0612,Male,32,Kolkata,West Bengal,East,2025-12-16,Loyal
+C10613,Customer_0613,Male,58,Lucknow,Uttar Pradesh,North,2025-10-11,Regular
+C10614,Customer_0614,Male,36,New Delhi,Delhi,North,2024-10-26,New
+C10615,Customer_0615,Female,43,Noida,Uttar Pradesh,North,2025-01-29,New
+C10616,Customer_0616,Male,46,Kolkata,West Bengal,East,2024-07-25,Regular
+C10617,Customer_0617,Male,39,Lucknow,Uttar Pradesh,North,2024-12-01,Regular
+C10618,Customer_0618,Male,57,Bengaluru,Karnataka,South,2025-08-15,Regular
+C10619,Customer_0619,Female,38,Hyderabad,Telangana,South,2025-12-30,Loyal
+C10620,Customer_0620,Other,55,Jaipur,Rajasthan,North,2025-05-28,New
+C10621,Customer_0621,Female,37,New Delhi,Delhi,North,2024-06-26,New
+C10622,Customer_0622,Female,46,Kochi,Kerala,South,2025-01-30,VIP
+C10623,Customer_0623,Female,21,Chennai,Tamil Nadu,South,2025-01-05,New
+C10624,Customer_0624,Male,24,Udaipur,Rajasthan,North,2026-05-07,Regular
+C10625,Customer_0625,Female,45,Madurai,Tamil Nadu,South,2026-03-01,Regular
+C10626,Customer_0626,Female,45,Hyderabad,Telangana,South,2025-10-19,Regular
+C10627,Customer_0627,Female,21,New Delhi,Delhi,North,2024-11-13,New
+C10628,Customer_0628,Female,39,Mumbai,Maharashtra,West,2026-01-05,New
+C10629,Customer_0629,Male,29,Kochi,Kerala,South,2025-01-03,New
+C10630,Customer_0630,Male,20,Mangaluru,Karnataka,South,2025-01-18,Regular
+C10631,Customer_0631,Female,39,Pune,Maharashtra,West,2024-03-02,Regular
+C10632,Customer_0632,Female,19,Warangal,Telangana,South,2026-03-16,New
+C10633,Customer_0633,Male,41,Jaipur,Rajasthan,North,2025-05-19,Regular
+C10634,Customer_0634,Female,51,Mysuru,Karnataka,South,2024-08-26,Loyal
+C10635,Customer_0635,Female,44,Lucknow,Uttar Pradesh,North,2024-07-13,New
+C10636,Customer_0636,Other,58,Kolkata,West Bengal,East,2025-11-08,Regular
+C10637,Customer_0637,Male,18,Bengaluru,Karnataka,South,2024-08-09,Loyal
+C10638,Customer_0638,Female,25,Warangal,Telangana,South,2024-03-01,Regular
+C10639,Customer_0639,Male,40,Ahmedabad,Gujarat,West,2024-05-08,Regular
+C10640,Customer_0640,Female,55,Kolkata,West Bengal,East,2025-11-15,Regular
+C10641,Customer_0641,Male,23,Madurai,Tamil Nadu,South,2024-06-04,Loyal
+C10642,Customer_0642,Female,39,Thiruvananthapuram,Kerala,South,2025-01-12,Loyal
+C10643,Customer_0643,Female,42,Chennai,Tamil Nadu,South,2025-09-13,Regular
+C10644,Customer_0644,Female,35,Mysuru,Karnataka,South,2026-02-19,Loyal
+C10645,Customer_0645,Male,34,Chennai,Tamil Nadu,South,2026-05-17,Regular
+C10646,Customer_0646,Male,29,Warangal,Telangana,South,2026-02-28,Regular
+C10647,Customer_0647,Female,23,Noida,Uttar Pradesh,North,2025-08-08,Regular
+C10648,Customer_0648,Female,43,Jaipur,Rajasthan,North,2025-03-12,New
+C10649,Customer_0649,Male,44,Thiruvananthapuram,Kerala,South,2024-07-25,Loyal
+C10650,Customer_0650,Female,25,Madurai,Tamil Nadu,South,2025-01-22,Regular
+C10651,Customer_0651,Female,36,Coimbatore,Tamil Nadu,South,2025-04-24,Regular
+C10652,Customer_0652,Male,59,Mangaluru,Karnataka,South,2026-03-01,VIP
+C10653,Customer_0653,Female,18,Jaipur,Rajasthan,North,2026-06-05,New
+C10654,Customer_0654,Male,46,Mumbai,Maharashtra,West,2026-04-17,Regular
+C10655,Customer_0655,Other,52,Chennai,Tamil Nadu,South,2024-12-05,New
+C10656,Customer_0656,Female,57,Hyderabad,Telangana,South,2026-05-18,Loyal
+C10657,Customer_0657,Female,31,Surat,Gujarat,West,2024-12-05,Loyal
+C10658,Customer_0658,Female,52,Kochi,Kerala,South,2024-07-22,Regular
+C10659,Customer_0659,Male,37,Chennai,Tamil Nadu,South,2024-06-09,Loyal
+C10660,Customer_0660,Male,30,Warangal,Telangana,South,2025-06-23,Regular
+C10661,Customer_0661,Male,55,Warangal,Telangana,South,2025-01-26,Loyal
+C10662,Customer_0662,Female,25,Thiruvananthapuram,Kerala,South,2026-02-07,Regular
+C10663,Customer_0663,Male,60,Mumbai,Maharashtra,West,2025-11-07,Regular
+C10664,Customer_0664,Male,37,Hyderabad,Telangana,South,2025-07-28,VIP
+C10665,Customer_0665,Male,50,Ahmedabad,Gujarat,West,2025-06-17,Regular
+C10666,Customer_0666,Male,43,Warangal,Telangana,South,2024-03-10,New
+C10667,Customer_0667,Male,56,Hyderabad,Telangana,South,2026-06-11,Regular
+C10668,Customer_0668,Male,38,Warangal,Telangana,South,2025-02-08,VIP
+C10669,Customer_0669,Male,59,Lucknow,Uttar Pradesh,North,2025-08-30,Regular
+C10670,Customer_0670,Female,60,Noida,Uttar Pradesh,North,2025-11-05,New
+C10671,Customer_0671,Female,58,Nagpur,Maharashtra,West,2025-08-13,Regular
+C10672,Customer_0672,Male,26,Chennai,Tamil Nadu,South,2025-05-31,Regular
+C10673,Customer_0673,Female,41,Hyderabad,Telangana,South,2026-04-07,New
+C10674,Customer_0674,Male,54,Udaipur,Rajasthan,North,2024-04-29,Loyal
+C10675,Customer_0675,Other,58,Coimbatore,Tamil Nadu,South,2026-03-24,VIP
+C10676,Customer_0676,Male,34,Nagpur,Maharashtra,West,2025-11-20,Regular
+C10677,Customer_0677,Female,41,New Delhi,Delhi,North,2025-11-18,Regular
+C10678,Customer_0678,Female,38,Madurai,Tamil Nadu,South,2024-08-04,Regular
+C10679,Customer_0679,Female,56,Chennai,Tamil Nadu,South,2024-02-25,New
+C10680,Customer_0680,Male,58,Kolkata,West Bengal,East,2024-12-31,Loyal
+C10681,Customer_0681,Male,56,Mangaluru,Karnataka,South,2025-11-29,Regular
+C10682,Customer_0682,Male,30,Kolkata,West Bengal,East,2025-05-18,Regular
+C10683,Customer_0683,Female,28,Ahmedabad,Gujarat,West,2026-01-13,Loyal
+C10684,Customer_0684,Male,36,Lucknow,Uttar Pradesh,North,2026-02-05,Regular
+C10685,Customer_0685,Male,28,Lucknow,Uttar Pradesh,North,2025-03-30,Regular
+C10686,Customer_0686,Female,30,Mysuru,Karnataka,South,2024-04-13,New
+C10687,Customer_0687,Male,18,Thiruvananthapuram,Kerala,South,2024-03-17,Loyal
+C10688,Customer_0688,Female,57,Kochi,Kerala,South,2024-08-17,VIP
+C10689,Customer_0689,Female,36,Mumbai,Maharashtra,West,2024-09-14,Regular
+C10690,Customer_0690,Male,29,Mysuru,Karnataka,South,2024-09-20,VIP
+C10691,Customer_0691,Female,25,Madurai,Tamil Nadu,South,2024-11-26,New
+C10692,Customer_0692,Male,25,Thiruvananthapuram,Kerala,South,2024-06-30,Regular
+C10693,Customer_0693,Male,29,Warangal,Telangana,South,2026-06-11,Regular
+C10694,Customer_0694,Male,50,Jaipur,Rajasthan,North,2026-02-06,Regular
+C10695,Customer_0695,Female,43,Coimbatore,Tamil Nadu,South,2025-07-03,Regular
+C10696,Customer_0696,Male,56,Surat,Gujarat,West,2025-11-18,Regular
+C10697,Customer_0697,Male,45,Hyderabad,Telangana,South,2024-01-27,New
+C10698,Customer_0698,Male,22,Hyderabad,Telangana,South,2024-10-02,Regular
+C10699,Customer_0699,Female,25,Bengaluru,Karnataka,South,2025-10-13,New
+C10700,Customer_0700,Female,42,Nagpur,Maharashtra,West,2024-10-25,Loyal
+C10701,Customer_0701,Male,44,Surat,Gujarat,West,2026-03-09,New
+C10702,Customer_0702,Female,40,Kochi,Kerala,South,2024-03-31,New
+C10703,Customer_0703,Male,47,Mysuru,Karnataka,South,2025-04-24,Regular
+C10704,Customer_0704,Male,40,Thiruvananthapuram,Kerala,South,2025-07-26,Regular
+C10705,Customer_0705,Male,37,Mysuru,Karnataka,South,2025-04-02,Loyal
+C10706,Customer_0706,Male,35,Bengaluru,Karnataka,South,2025-03-26,Regular
+C10707,Customer_0707,Male,35,Mangaluru,Karnataka,South,2024-12-30,Regular
+C10708,Customer_0708,Male,19,Pune,Maharashtra,West,2026-05-08,Loyal
+C10709,Customer_0709,Male,21,Mangaluru,Karnataka,South,2025-11-05,Regular
+C10710,Customer_0710,Male,47,New Delhi,Delhi,North,2024-12-16,New
+C10711,Customer_0711,Female,50,Jaipur,Rajasthan,North,2025-10-16,Regular
+C10712,Customer_0712,Female,53,Kochi,Kerala,South,2025-02-03,VIP
+C10713,Customer_0713,Male,35,Chennai,Tamil Nadu,South,2024-09-09,Regular
+C10714,Customer_0714,Female,54,Kolkata,West Bengal,East,2026-02-19,Regular
+C10715,Customer_0715,Female,36,Ahmedabad,Gujarat,West,2026-05-30,New
+C10716,Customer_0716,Female,45,Lucknow,Uttar Pradesh,North,2026-03-13,New
+C10717,Customer_0717,Male,57,Nagpur,Maharashtra,West,2025-04-03,Regular
+C10718,Customer_0718,Male,37,Madurai,Tamil Nadu,South,2025-11-29,Regular
+C10719,Customer_0719,Male,50,Hyderabad,Telangana,South,2025-05-13,New
+C10720,Customer_0720,Male,29,New Delhi,Delhi,North,2025-05-22,VIP
+C10721,Customer_0721,Male,32,Noida,Uttar Pradesh,North,2024-10-30,Loyal
+C10722,Customer_0722,Female,58,Kolkata,West Bengal,East,2025-05-15,Regular
+C10723,Customer_0723,Male,56,Coimbatore,Tamil Nadu,South,2026-03-13,Loyal
+C10724,Customer_0724,Female,19,Lucknow,Uttar Pradesh,North,2025-08-20,New
+C10725,Customer_0725,Male,46,Coimbatore,Tamil Nadu,South,2024-06-14,Regular
+C10726,Customer_0726,Male,58,New Delhi,Delhi,North,2025-02-18,Regular
+C10727,Customer_0727,Female,27,Kolkata,West Bengal,East,2025-04-06,Loyal
+C10728,Customer_0728,Female,19,Warangal,Telangana,South,2024-04-23,Loyal
+C10729,Customer_0729,Female,28,Mangaluru,Karnataka,South,2025-03-08,Regular
+C10730,Customer_0730,Female,30,Thiruvananthapuram,Kerala,South,2024-12-21,VIP
+C10731,Customer_0731,Female,27,Hyderabad,Telangana,South,2025-11-25,New
+C10732,Customer_0732,Male,31,Bengaluru,Karnataka,South,2024-07-25,Loyal
+C10733,Customer_0733,Male,35,Nagpur,Maharashtra,West,2026-02-06,VIP
+C10734,Customer_0734,Male,26,Jaipur,Rajasthan,North,2024-08-22,New
+C10735,Customer_0735,Male,56,Surat,Gujarat,West,2025-03-17,Loyal
+C10736,Customer_0736,Male,45,Surat,Gujarat,West,2024-12-20,New
+C10737,Customer_0737,Male,20,Kochi,Kerala,South,2025-05-29,Regular
+C10738,Customer_0738,Female,37,Kolkata,West Bengal,East,2024-07-26,Regular
+C10739,Customer_0739,Male,23,New Delhi,Delhi,North,2025-12-09,Regular
+C10740,Customer_0740,Female,44,Kolkata,West Bengal,East,2026-05-02,VIP
+C10741,Customer_0741,Other,19,New Delhi,Delhi,North,2024-05-04,Loyal
+C10742,Customer_0742,Male,46,Kolkata,West Bengal,East,2024-05-17,Regular
+C10743,Customer_0743,Male,55,Jaipur,Rajasthan,North,2024-12-04,Loyal
+C10744,Customer_0744,Female,20,Mumbai,Maharashtra,West,2025-06-20,VIP
+C10745,Customer_0745,Male,33,Nagpur,Maharashtra,West,2024-03-08,New
+C10746,Customer_0746,Male,47,Mysuru,Karnataka,South,2025-07-26,VIP
+C10747,Customer_0747,Female,57,Lucknow,Uttar Pradesh,North,2025-06-24,New
+C10748,Customer_0748,Female,19,Pune,Maharashtra,West,2025-01-17,Loyal
+C10749,Customer_0749,Male,34,Mumbai,Maharashtra,West,2024-01-19,Regular
+C10750,Customer_0750,Female,58,Hyderabad,Telangana,South,2025-11-13,New
+C10751,Customer_0751,Male,29,Hyderabad,Telangana,South,2025-03-25,Regular
+C10752,Customer_0752,Female,52,Bengaluru,Karnataka,South,2024-03-14,Regular
+C10753,Customer_0753,Female,60,Noida,Uttar Pradesh,North,2025-07-26,Regular
+C10754,Customer_0754,Male,18,Thiruvananthapuram,Kerala,South,2025-10-26,New
+C10755,Customer_0755,Female,32,Warangal,Telangana,South,2024-10-02,Regular
+C10756,Customer_0756,Male,43,Kochi,Kerala,South,2024-02-17,VIP
+C10757,Customer_0757,Female,54,Chennai,Tamil Nadu,South,2024-07-29,Regular
+C10758,Customer_0758,Female,38,Warangal,Telangana,South,2026-05-04,New
+C10759,Customer_0759,Male,48,Udaipur,Rajasthan,North,2025-10-12,Regular
+C10760,Customer_0760,Male,42,Lucknow,Uttar Pradesh,North,2025-09-13,New
+C10761,Customer_0761,Male,40,Mangaluru,Karnataka,South,2025-11-25,Loyal
+C10762,Customer_0762,Male,41,Coimbatore,Tamil Nadu,South,2025-06-23,Loyal
+C10763,Customer_0763,Male,55,Lucknow,Uttar Pradesh,North,2025-12-09,Regular
+C10764,Customer_0764,Female,45,Jaipur,Rajasthan,North,2024-07-09,Regular
+C10765,Customer_0765,Female,38,Noida,Uttar Pradesh,North,2024-11-10,Loyal
+C10766,Customer_0766,Male,60,Jaipur,Rajasthan,North,2025-07-16,Regular
+C10767,Customer_0767,Male,35,Udaipur,Rajasthan,North,2025-10-22,Loyal
+C10768,Customer_0768,Male,53,Kochi,Kerala,South,2026-02-18,Regular
+C10769,Customer_0769,Female,52,Kolkata,West Bengal,East,2025-07-15,Loyal
+C10770,Customer_0770,Female,26,Coimbatore,Tamil Nadu,South,2026-06-18,Regular
+C10771,Customer_0771,Male,55,Lucknow,Uttar Pradesh,North,2026-01-27,Regular
+C10772,Customer_0772,Male,47,New Delhi,Delhi,North,2024-04-22,VIP
+C10773,Customer_0773,Male,51,Coimbatore,Tamil Nadu,South,2024-06-18,Regular
+C10774,Customer_0774,Male,49,Kolkata,West Bengal,East,2025-04-12,Regular
+C10775,Customer_0775,Male,20,Madurai,Tamil Nadu,South,2025-11-08,New
+C10776,Customer_0776,Female,20,Nagpur,Maharashtra,West,2024-01-14,Regular
+C10777,Customer_0777,Female,45,New Delhi,Delhi,North,2025-12-15,Regular
+C10778,Customer_0778,Female,32,Kolkata,West Bengal,East,2024-10-14,New
+C10779,Customer_0779,Female,58,Thiruvananthapuram,Kerala,South,2024-07-07,New
+C10780,Customer_0780,Male,40,Lucknow,Uttar Pradesh,North,2024-06-03,Regular
+C10781,Customer_0781,Female,57,Ahmedabad,Gujarat,West,2025-07-20,Loyal
+C10782,Customer_0782,Male,28,Kolkata,West Bengal,East,2025-11-24,Regular
+C10783,Customer_0783,Female,49,Bengaluru,Karnataka,South,2025-12-22,New
+C10784,Customer_0784,Female,53,Lucknow,Uttar Pradesh,North,2026-06-06,Loyal
+C10785,Customer_0785,Female,50,Kolkata,West Bengal,East,2025-04-15,New
+C10786,Customer_0786,Female,41,Nagpur,Maharashtra,West,2024-03-15,Regular
+C10787,Customer_0787,Male,56,Surat,Gujarat,West,2024-10-03,New
+C10788,Customer_0788,Female,51,Pune,Maharashtra,West,2025-10-06,New
+C10789,Customer_0789,Male,45,Surat,Gujarat,West,2024-12-08,New
+C10790,Customer_0790,Female,54,Mysuru,Karnataka,South,2025-02-28,Regular
+C10791,Customer_0791,Female,24,Lucknow,Uttar Pradesh,North,2025-07-24,New
+C10792,Customer_0792,Female,21,Kochi,Kerala,South,2025-05-25,Regular
+C10793,Customer_0793,Male,54,Nagpur,Maharashtra,West,2026-05-06,Regular
+C10794,Customer_0794,Male,18,Nagpur,Maharashtra,West,2024-06-30,Regular
+C10795,Customer_0795,Female,18,Udaipur,Rajasthan,North,2025-04-02,Regular
+C10796,Customer_0796,Female,37,Ahmedabad,Gujarat,West,2026-04-30,Loyal
+C10797,Customer_0797,Male,36,Warangal,Telangana,South,2026-04-12,New
+C10798,Customer_0798,Female,46,Noida,Uttar Pradesh,North,2024-03-04,Regular
+C10799,Customer_0799,Female,27,Ahmedabad,Gujarat,West,2026-04-18,New
+C10800,Customer_0800,Male,35,Jaipur,Rajasthan,North,2024-09-16,New
+C10801,Customer_0801,Male,45,Coimbatore,Tamil Nadu,South,2024-07-11,Regular
+C10802,Customer_0802,Female,52,Surat,Gujarat,West,2025-10-16,Regular
+C10803,Customer_0803,Male,60,Kochi,Kerala,South,2025-09-07,Loyal
+C10804,Customer_0804,Male,48,Noida,Uttar Pradesh,North,2025-02-09,Regular
+C10805,Customer_0805,Female,44,Udaipur,Rajasthan,North,2025-12-26,VIP
+C10806,Customer_0806,Male,28,Coimbatore,Tamil Nadu,South,2026-01-23,New
+C10807,Customer_0807,Male,55,New Delhi,Delhi,North,2025-12-21,New
+C10808,Customer_0808,Female,22,Jaipur,Rajasthan,North,2024-04-02,New
+C10809,Customer_0809,Female,25,New Delhi,Delhi,North,2025-03-05,New
+C10810,Customer_0810,Female,51,Noida,Uttar Pradesh,North,2025-10-15,Regular
+C10811,Customer_0811,Male,29,Mumbai,Maharashtra,West,2025-03-09,Regular
+C10812,Customer_0812,Female,55,Udaipur,Rajasthan,North,2025-02-07,New
+C10813,Customer_0813,Male,18,Bengaluru,Karnataka,South,2025-03-09,VIP
+C10814,Customer_0814,Male,48,New Delhi,Delhi,North,2024-04-21,Loyal
+C10815,Customer_0815,Female,21,Thiruvananthapuram,Kerala,South,2025-01-09,Regular
+C10816,Customer_0816,Male,22,Mangaluru,Karnataka,South,2024-02-28,New
+C10817,Customer_0817,Female,47,Kolkata,West Bengal,East,2024-02-12,New
+C10818,Customer_0818,Male,41,Kolkata,West Bengal,East,2024-07-25,New
+C10819,Customer_0819,Male,20,Madurai,Tamil Nadu,South,2026-02-18,New
+C10820,Customer_0820,Female,28,Nagpur,Maharashtra,West,2024-10-22,Regular
+C10821,Customer_0821,Female,21,Noida,Uttar Pradesh,North,2024-04-27,New
+C10822,Customer_0822,Female,43,Udaipur,Rajasthan,North,2025-06-15,Regular
+C10823,Customer_0823,Female,44,Warangal,Telangana,South,2024-08-09,VIP
+C10824,Customer_0824,Female,60,Kochi,Kerala,South,2024-06-14,Loyal
+C10825,Customer_0825,Female,44,New Delhi,Delhi,North,2025-10-04,VIP
+C10826,Customer_0826,Other,59,Noida,Uttar Pradesh,North,2024-06-04,New
+C10827,Customer_0827,Female,23,Mangaluru,Karnataka,South,2024-07-02,Regular
+C10828,Customer_0828,Female,32,Kolkata,West Bengal,East,2024-03-30,Regular
+C10829,Customer_0829,Male,47,Thiruvananthapuram,Kerala,South,2024-04-03,New
+C10830,Customer_0830,Female,59,Hyderabad,Telangana,South,2024-01-13,New
+C10831,Customer_0831,Male,54,Jaipur,Rajasthan,North,2026-04-13,Loyal
+C10832,Customer_0832,Male,54,Madurai,Tamil Nadu,South,2026-03-15,Regular
+C10833,Customer_0833,Male,59,Warangal,Telangana,South,2026-01-11,Regular
+C10834,Customer_0834,Female,54,Thiruvananthapuram,Kerala,South,2026-04-13,Regular
+C10835,Customer_0835,Female,52,Warangal,Telangana,South,2026-03-14,Regular
+C10836,Customer_0836,Female,40,Kochi,Kerala,South,2025-03-13,New
+C10837,Customer_0837,Male,23,Kochi,Kerala,South,2025-06-21,Regular
+C10838,Customer_0838,Female,21,Surat,Gujarat,West,2025-08-09,New
+C10839,Customer_0839,Female,35,New Delhi,Delhi,North,2026-05-25,New
+C10840,Customer_0840,Other,26,Kolkata,West Bengal,East,2026-03-21,VIP
+C10841,Customer_0841,Female,46,Surat,Gujarat,West,2024-05-29,Regular
+C10842,Customer_0842,Female,30,Udaipur,Rajasthan,North,2025-10-21,Loyal
+C10843,Customer_0843,Female,34,Ahmedabad,Gujarat,West,2024-01-08,Regular
+C10844,Customer_0844,Other,49,Mumbai,Maharashtra,West,2024-01-29,Regular
+C10845,Customer_0845,Female,39,Nagpur,Maharashtra,West,2024-10-22,New
+C10846,Customer_0846,Male,21,Kolkata,West Bengal,East,2025-12-21,New
+C10847,Customer_0847,Male,22,Hyderabad,Telangana,South,2025-10-01,New
+C10848,Customer_0848,Female,54,New Delhi,Delhi,North,2024-12-05,Loyal
+C10849,Customer_0849,Male,58,Kolkata,West Bengal,East,2025-09-19,Loyal
+C10850,Customer_0850,Female,30,Kochi,Kerala,South,2025-03-14,Regular
+C10851,Customer_0851,Female,51,Mysuru,Karnataka,South,2024-05-23,Regular
+C10852,Customer_0852,Male,39,New Delhi,Delhi,North,2026-04-09,VIP
+C10853,Customer_0853,Male,40,New Delhi,Delhi,North,2026-01-16,New
+C10854,Customer_0854,Male,20,Kochi,Kerala,South,2025-06-02,Regular
+C10855,Customer_0855,Male,59,Kochi,Kerala,South,2024-02-14,Regular
+C10856,Customer_0856,Female,51,Madurai,Tamil Nadu,South,2024-08-26,Loyal
+C10857,Customer_0857,Female,49,Kolkata,West Bengal,East,2024-06-03,VIP
+C10858,Customer_0858,Female,38,Kochi,Kerala,South,2024-06-29,New
+C10859,Customer_0859,Female,38,Nagpur,Maharashtra,West,2024-08-02,Loyal
+C10860,Customer_0860,Female,28,Udaipur,Rajasthan,North,2024-03-28,Loyal
+C10861,Customer_0861,Female,56,Bengaluru,Karnataka,South,2024-09-12,New
+C10862,Customer_0862,Female,21,Kolkata,West Bengal,East,2025-05-25,Regular
+C10863,Customer_0863,Female,18,Lucknow,Uttar Pradesh,North,2024-03-13,Regular
+C10864,Customer_0864,Male,45,Nagpur,Maharashtra,West,2024-06-27,VIP
+C10865,Customer_0865,Male,41,Warangal,Telangana,South,2024-07-30,New
+C10866,Customer_0866,Female,52,Thiruvananthapuram,Kerala,South,2026-03-15,Loyal
+C10867,Customer_0867,Male,30,Noida,Uttar Pradesh,North,2024-08-21,Regular
+C10868,Customer_0868,Male,51,Kochi,Kerala,South,2025-04-09,Loyal
+C10869,Customer_0869,Female,28,New Delhi,Delhi,North,2026-01-20,Regular
+C10870,Customer_0870,Male,53,Nagpur,Maharashtra,West,2024-08-10,Regular
+C10871,Customer_0871,Male,34,New Delhi,Delhi,North,2025-09-22,Loyal
+C10872,Customer_0872,Male,52,Madurai,Tamil Nadu,South,2026-04-04,Loyal
+C10873,Customer_0873,Female,35,New Delhi,Delhi,North,2024-09-20,Loyal
+C10874,Customer_0874,Male,57,Coimbatore,Tamil Nadu,South,2024-07-25,New
+C10875,Customer_0875,Female,39,Chennai,Tamil Nadu,South,2025-08-29,Loyal
+C10876,Customer_0876,Male,41,Lucknow,Uttar Pradesh,North,2026-06-03,New
+C10877,Customer_0877,Male,36,Kochi,Kerala,South,2026-01-03,Regular
+C10878,Customer_0878,Male,54,Warangal,Telangana,South,2024-12-31,Regular
+C10879,Customer_0879,Male,56,New Delhi,Delhi,North,2024-10-02,Regular
+C10880,Customer_0880,Male,38,Nagpur,Maharashtra,West,2025-01-14,Regular
+C10881,Customer_0881,Female,25,Chennai,Tamil Nadu,South,2026-01-12,VIP
+C10882,Customer_0882,Female,45,Thiruvananthapuram,Kerala,South,2024-11-04,New
+C10883,Customer_0883,Male,22,Bengaluru,Karnataka,South,2025-09-22,Loyal
+C10884,Customer_0884,Female,34,Kolkata,West Bengal,East,2024-09-24,Regular
+C10885,Customer_0885,Female,54,Lucknow,Uttar Pradesh,North,2026-02-23,New
+C10886,Customer_0886,Female,53,Warangal,Telangana,South,2024-03-04,New
+C10887,Customer_0887,Female,36,Ahmedabad,Gujarat,West,2026-03-20,VIP
+C10888,Customer_0888,Male,44,Lucknow,Uttar Pradesh,North,2024-12-15,Loyal
+C10889,Customer_0889,Male,51,Bengaluru,Karnataka,South,2025-05-08,VIP
+C10890,Customer_0890,Male,28,Kolkata,West Bengal,East,2025-06-06,VIP
+C10891,Customer_0891,Male,29,Bengaluru,Karnataka,South,2024-04-07,New
+C10892,Customer_0892,Female,38,New Delhi,Delhi,North,2024-03-11,Regular
+C10893,Customer_0893,Female,28,Chennai,Tamil Nadu,South,2024-12-29,Loyal
+C10894,Customer_0894,Male,56,Warangal,Telangana,South,2025-07-23,Regular
+C10895,Customer_0895,Female,45,Udaipur,Rajasthan,North,2026-03-12,Regular
+C10896,Customer_0896,Male,22,Chennai,Tamil Nadu,South,2026-02-01,Regular
+C10897,Customer_0897,Male,34,Jaipur,Rajasthan,North,2024-10-02,Regular
+C10898,Customer_0898,Female,37,Kolkata,West Bengal,East,2024-02-19,Regular
+C10899,Customer_0899,Male,58,Kochi,Kerala,South,2024-12-23,New
+C10900,Customer_0900,Male,29,Ahmedabad,Gujarat,West,2025-12-28,Regular
+C10901,Customer_0901,Male,23,Mumbai,Maharashtra,West,2025-07-17,Regular
+C10902,Customer_0902,Female,34,Madurai,Tamil Nadu,South,2026-02-21,Regular
+C10903,Customer_0903,Female,36,Hyderabad,Telangana,South,2025-04-29,New
+C10904,Customer_0904,Male,43,Mangaluru,Karnataka,South,2024-03-24,Loyal
+C10905,Customer_0905,Female,49,Warangal,Telangana,South,2026-06-17,New
+C10906,Customer_0906,Female,23,Kolkata,West Bengal,East,2026-03-15,Regular
+C10907,Customer_0907,Male,53,Jaipur,Rajasthan,North,2025-09-29,Loyal
+C10908,Customer_0908,Female,55,Bengaluru,Karnataka,South,2026-03-18,Regular
+C10909,Customer_0909,Male,28,Nagpur,Maharashtra,West,2025-08-06,Regular
+C10910,Customer_0910,Male,50,Pune,Maharashtra,West,2024-10-22,Loyal
+C10911,Customer_0911,Male,41,Madurai,Tamil Nadu,South,2024-08-23,Regular
+C10912,Customer_0912,Female,40,Kolkata,West Bengal,East,2024-02-25,Loyal
+C10913,Customer_0913,Male,32,Thiruvananthapuram,Kerala,South,2024-12-25,Loyal
+C10914,Customer_0914,Female,44,Kolkata,West Bengal,East,2024-04-19,Regular
+C10915,Customer_0915,Female,28,Udaipur,Rajasthan,North,2024-07-10,Regular
+C10916,Customer_0916,Male,34,Warangal,Telangana,South,2024-04-02,New
+C10917,Customer_0917,Female,31,Pune,Maharashtra,West,2026-05-11,Regular
+C10918,Customer_0918,Female,44,Hyderabad,Telangana,South,2025-07-21,Regular
+C10919,Customer_0919,Male,35,Hyderabad,Telangana,South,2024-02-29,Regular
+C10920,Customer_0920,Female,45,Hyderabad,Telangana,South,2025-10-11,Regular
+C10921,Customer_0921,Female,21,Nagpur,Maharashtra,West,2024-02-08,Regular
+C10922,Customer_0922,Male,24,Noida,Uttar Pradesh,North,2025-06-23,New
+C10923,Customer_0923,Male,52,New Delhi,Delhi,North,2024-02-18,Regular
+C10924,Customer_0924,Male,26,Udaipur,Rajasthan,North,2025-02-23,Regular
+C10925,Customer_0925,Female,25,Noida,Uttar Pradesh,North,2025-09-28,Loyal
+C10926,Customer_0926,Female,34,Jaipur,Rajasthan,North,2024-01-13,New
+C10927,Customer_0927,Female,34,Mysuru,Karnataka,South,2024-02-05,Regular
+C10928,Customer_0928,Female,50,Kolkata,West Bengal,East,2024-04-10,VIP
+C10929,Customer_0929,Male,49,Kolkata,West Bengal,East,2026-03-04,New
+C10930,Customer_0930,Female,25,Surat,Gujarat,West,2024-03-26,Regular
+C10931,Customer_0931,Female,36,Kolkata,West Bengal,East,2025-05-30,New
+C10932,Customer_0932,Male,55,Mumbai,Maharashtra,West,2024-08-10,Regular
+C10933,Customer_0933,Male,20,Kochi,Kerala,South,2024-12-03,Regular
+C10934,Customer_0934,Male,22,Madurai,Tamil Nadu,South,2024-06-14,Regular
+C10935,Customer_0935,Female,30,Ahmedabad,Gujarat,West,2025-01-17,Regular
+C10936,Customer_0936,Female,48,Madurai,Tamil Nadu,South,2026-05-05,Loyal
+C10937,Customer_0937,Female,33,Udaipur,Rajasthan,North,2026-06-13,New
+C10938,Customer_0938,Female,49,Chennai,Tamil Nadu,South,2025-01-10,New
+C10939,Customer_0939,Male,39,Chennai,Tamil Nadu,South,2025-04-15,Loyal
+C10940,Customer_0940,Male,46,Ahmedabad,Gujarat,West,2026-02-28,Regular
+C10941,Customer_0941,Male,39,Mangaluru,Karnataka,South,2025-10-03,Loyal
+C10942,Customer_0942,Male,60,Hyderabad,Telangana,South,2024-01-31,Regular
+C10943,Customer_0943,Female,20,Kolkata,West Bengal,East,2025-01-09,Loyal
+C10944,Customer_0944,Male,27,Kolkata,West Bengal,East,2024-01-11,Regular
+C10945,Customer_0945,Female,59,Mumbai,Maharashtra,West,2024-10-28,Loyal
+C10946,Customer_0946,Male,38,Ahmedabad,Gujarat,West,2024-04-05,VIP
+C10947,Customer_0947,Male,33,Nagpur,Maharashtra,West,2024-07-08,Regular
+C10948,Customer_0948,Female,29,Thiruvananthapuram,Kerala,South,2025-03-28,New
+C10949,Customer_0949,Female,19,Thiruvananthapuram,Kerala,South,2024-07-10,Regular
+C10950,Customer_0950,Male,58,Mumbai,Maharashtra,West,2025-04-30,New
+C10951,Customer_0951,Female,41,Surat,Gujarat,West,2024-09-22,New
+C10952,Customer_0952,Female,52,Pune,Maharashtra,West,2025-02-27,Regular
+C10953,Customer_0953,Female,47,Kolkata,West Bengal,East,2024-05-07,Regular
+C10954,Customer_0954,Male,47,Lucknow,Uttar Pradesh,North,2024-08-25,Regular
+C10955,Customer_0955,Male,52,New Delhi,Delhi,North,2024-12-20,Regular
+C10956,Customer_0956,Male,36,Madurai,Tamil Nadu,South,2024-04-21,Regular
+C10957,Customer_0957,Female,25,New Delhi,Delhi,North,2026-04-07,New
+C10958,Customer_0958,Male,43,Surat,Gujarat,West,2025-03-21,New
+C10959,Customer_0959,Female,57,New Delhi,Delhi,North,2024-12-08,New
+C10960,Customer_0960,Male,24,Thiruvananthapuram,Kerala,South,2024-05-24,Regular
+C10961,Customer_0961,Male,47,Jaipur,Rajasthan,North,2024-03-05,New
+C10962,Customer_0962,Female,24,Madurai,Tamil Nadu,South,2024-09-03,Regular
+C10963,Customer_0963,Female,20,Warangal,Telangana,South,2026-01-04,Regular
+C10964,Customer_0964,Female,18,Ahmedabad,Gujarat,West,2025-05-04,Loyal
+C10965,Customer_0965,Female,53,Madurai,Tamil Nadu,South,2026-04-04,New
+C10966,Customer_0966,Female,42,New Delhi,Delhi,North,2025-03-14,Regular
+C10967,Customer_0967,Male,54,Thiruvananthapuram,Kerala,South,2024-04-15,Loyal
+C10968,Customer_0968,Male,18,Mangaluru,Karnataka,South,2024-06-29,Loyal
+C10969,Customer_0969,Female,32,Noida,Uttar Pradesh,North,2024-07-02,VIP
+C10970,Customer_0970,Female,54,Warangal,Telangana,South,2024-08-13,New
+C10971,Customer_0971,Female,30,Noida,Uttar Pradesh,North,2026-02-15,New
+C10972,Customer_0972,Male,57,Madurai,Tamil Nadu,South,2026-02-28,Loyal
+C10973,Customer_0973,Female,25,Kochi,Kerala,South,2024-03-29,Regular
+C10974,Customer_0974,Male,22,Kochi,Kerala,South,2025-11-18,Regular
+C10975,Customer_0975,Male,26,New Delhi,Delhi,North,2025-06-13,Loyal
+C10976,Customer_0976,Male,18,Kolkata,West Bengal,East,2025-01-05,Loyal
+C10977,Customer_0977,Male,53,New Delhi,Delhi,North,2025-02-02,VIP
+C10978,Customer_0978,Female,52,Kolkata,West Bengal,East,2024-04-15,VIP
+C10979,Customer_0979,Male,19,Kolkata,West Bengal,East,2024-09-27,Loyal
+C10980,Customer_0980,Female,57,Warangal,Telangana,South,2026-04-10,Regular
+C10981,Customer_0981,Female,40,New Delhi,Delhi,North,2025-05-17,Loyal
+C10982,Customer_0982,Male,26,Mangaluru,Karnataka,South,2025-11-09,New
+C10983,Customer_0983,Male,51,Pune,Maharashtra,West,2025-06-08,New
+C10984,Customer_0984,Male,31,Nagpur,Maharashtra,West,2026-04-28,Loyal
+C10985,Customer_0985,Female,21,New Delhi,Delhi,North,2024-02-01,Regular
+C10986,Customer_0986,Female,47,New Delhi,Delhi,North,2025-01-27,New
+C10987,Customer_0987,Male,48,Lucknow,Uttar Pradesh,North,2024-02-09,New
+C10988,Customer_0988,Female,55,Warangal,Telangana,South,2025-10-21,Loyal
+C10989,Customer_0989,Male,28,New Delhi,Delhi,North,2024-08-05,Regular
+C10990,Customer_0990,Male,52,Noida,Uttar Pradesh,North,2025-12-31,Loyal
+C10991,Customer_0991,Male,25,Kolkata,West Bengal,East,2024-03-22,New
+C10992,Customer_0992,Female,20,Kochi,Kerala,South,2026-04-24,Loyal
+C10993,Customer_0993,Female,31,Kochi,Kerala,South,2025-12-20,Loyal
+C10994,Customer_0994,Female,30,Kolkata,West Bengal,East,2024-07-19,Regular
+C10995,Customer_0995,Male,49,Ahmedabad,Gujarat,West,2025-03-22,Regular
+C10996,Customer_0996,Female,51,Noida,Uttar Pradesh,North,2026-04-23,New
+C10997,Customer_0997,Male,36,Noida,Uttar Pradesh,North,2025-03-03,VIP
+C10998,Customer_0998,Female,55,Kolkata,West Bengal,East,2024-02-07,Regular
+C10999,Customer_0999,Other,33,Bengaluru,Karnataka,South,2024-07-29,VIP
+C11000,Customer_1000,Female,19,Jaipur,Rajasthan,North,2025-03-19,Regular
